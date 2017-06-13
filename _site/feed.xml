@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-13T21:49:19+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-13T23:44:18+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">ocher</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
 
 h4{
@@ -57,7 +57,7 @@ p{
 &lt;/p&gt;
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/category1/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/category1/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/category1/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/all/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/all/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/all/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
 
   &lt;div class=&quot;archive-group&quot;&gt;
     
@@ -75,14 +75,14 @@ p{
 
   &lt;div class=&quot;archive-group&quot;&gt;
     
-    &lt;div id=&quot;#category1&quot;&gt;&lt;/div&gt;
+    &lt;div id=&quot;#all&quot;&gt;&lt;/div&gt;
     &lt;p&gt;&lt;/p&gt;
     
-    &lt;h3 class=&quot;category-head&quot;&gt;category1&lt;/h3&gt;
-    &lt;a name=&quot;category1&quot;&gt;&lt;/a&gt;
+    &lt;h3 class=&quot;category-head&quot;&gt;all&lt;/h3&gt;
+    &lt;a name=&quot;all&quot;&gt;&lt;/a&gt;
     
     &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/category1/2017/05/13/xxx.html&quot;&gt;Basic construction(2)&lt;/a&gt;&lt;/h4&gt;
+      &lt;h4&gt;&lt;a href=&quot;/all/2017/05/13/xxx.html&quot;&gt;Basic construction(2)&lt;/a&gt;&lt;/h4&gt;
     &lt;/article&gt;
     
   &lt;/div&gt;
@@ -101,7 +101,7 @@ p{
     
   &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><category term="category" /><summary type="html">structure Basic construction(1) category1 Basic construction(2) material ocher</summary></entry><entry><title type="html">Basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">structure Basic construction(1) all Basic construction(2) material ocher</summary></entry><entry><title type="html">Basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
 
 &lt;h3&gt;
 	제혀쪽매
