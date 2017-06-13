@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>Kilobot: A 1024 Robot Platform for Implementing Collective Behaviors | Northwestern Institute on Complex Systems (NICO)</title>
+<meta content="Official web site of Northwestern Institute on Complex Systems" name="description" />
+<meta content="NICO, Complex systems, Northwestern University" name="keywords" />
+
+
+<meta content="Wed, 15 Mar 2017 15:000:23 -0500" name="date" />
+
+<meta content="NICO | Northwestern-Argonne" name="title" />
+<meta content="eng" name="language" />
+<meta content="Copyright 2012 Northwestern University" name="rights" />
+<meta content="INDEX, FOLLOW" name="robot" />
+<link href="../../../styles/mccnicoprint.css" media="print" rel="stylesheet" type="text/css" />
+
+<link href="../../../styles/reset_uni.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/universal.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/tmp.css" rel="stylesheet" type="text/css" />
+<link href="../../../styles/main-navigation.css" rel="stylesheet" type="text/css" />
+
+<script src="../../../scripts/jquery/jquery-1.8.0.min.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+    //For search form
+    function switchText()
+    {
+        if ($(this).val() == $(this).attr('title'))
+            $(this).val('').removeClass('ex');
+        else if ($.trim($(this).val()) == '')
+            $(this).addClass('ex').val($(this).attr('title'));
+    }
+    
+    $(document).ready(function() {
+        $('input[type=text][title!=""]').each(function() {
+            if ($.trim($(this).val()) == '') $(this).val($(this).attr('title'));
+            if ($(this).val() == $(this).attr('title')) $(this).addClass('ex');
+        }).focus(switchText).blur(switchText);
+        
+        $('form').submit(function() {
+            $(this).find('input[type=text][title!=""]').each(function() {
+                if ($(this).val() == $(this).attr('title')) $(this).val('');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36406748-1']);
+  _gaq.push(['_setDomainName', 'northwestern.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+    <!-- Google Tag Manager -->
+ 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX6F23&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=wMILQr1-arU9JWeIZPlVAQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX6F23');</script>
+
+<!-- End Google Tag Manager -->
+    <div id="mainFrame_container">
+        <div class="mainFrame">
+            <div id="header">
+                <div class="header_logo_nico"><a href="../../../index.html"><img alt="Northwestern Institute on Complex Systems" height="110" src="../../../img/logo-top.jpg" width="196" /></a></div>
+<div class="header_text">
+<h1 class="header_organization">Northwestern Institute on Complex Systems</h1>
+<div class="header_parent_organization"><a href="http://www.northwestern.edu/" target="_blank">Northwestern University</a></div>
+</div>
+<div class="header_logo_facebook"><a href="https://www.facebook.com/NICONorthwestern" target="_blank"><img alt="Facebook Link" height="23" src="../../../img/nico-fb.jpg" width="20" /></a></div>
+<div class="header_logo_search"><img alt="Search" height="23" src="../../../img/structure/nico-search.jpg" width="150" />
+<form action="http://googlesearch.northwestern.edu/search" id="search" method="get" name="search"><input class="searchInput" id="q" maxlength="127" name="q" title="Search NICO..." type="text" /> <input name="sitesearch" type="hidden" value="http://www.nico.northwestern.edu" /> <input name="output" type="hidden" value="xml_no_dtd" /> <input name="client" type="hidden" value="default_oneboxes" /> <input name="proxystylesheet" type="hidden" value="default_oneboxes" /> <input name="site" type="hidden" value="default_collection" /></form>
+</div>
+<div class="header_logo_kellogg"><a href="http://www.kellogg.northwestern.edu/" target="_blank"><img alt="Kellogg School of Management" height="39" src="../../../img/nico-kellogg.png" width="110" /></a></div>
+<div class="header_logo_mccormick"><a href="http://www.mccormick.northwestern.edu/" target="_blank"><img alt="Northwestern McCormick Engineering" height="39" src="../../../img/nico-mcc.jpg" width="308" /></a></div>
+            </div>
+            
+            <div id="navigation">
+                <div id="main-nav"><ul><li><a href="../../../index.html">Home</a></li><li><a href="../../../about/index.html">About</a></li><li><a href="../../../people/index.html">People</a></li><li><a href="../../../research/index.html">Research</a><div><ul><li><a href="../../../research/Data%20Science%20Initiative.html">Data Science Initiative</a></li><li><a href="../../videos.html">Videos</a></li></ul></div></li><li><a href="../../../education/index.html">Education</a><div><ul><li><a href="../../../education/NICO101.html">NICO 101-0</a></li></ul></div></li><li><a href="../../../news/index.html">News </a></li><li class="current"><a href="../../index.html">Seminars &amp; Events</a><div><ul><li><a href="../../videos.html">Videos</a></li><li><a href="../../distinguished-speakers.html">NICO Distinguished Speakers Series</a></li></ul></div></li><li><a href="../../../support/index.html">Support NICO</a></li><li><a href="../../../contact/index.html">Contact Us</a><div><ul><li><a href="../../../contact/Jobs.html">Jobs</a></li></ul></div></li></ul></div>
+            </div>
+            
+            <div id="mainContainer_in">
+                <p class="breadcrumbs"><a href="../../../index.html">Home</a><span> &gt; </span><a href="../../index.html">Seminars &amp; Events</a><span> &gt; </span><a href="November7.html">2012</a><span> &gt; </span>December 5</p>
+                <div id="main_content"><div class="pagetitle_container"><h2>Kilobot: A 1024 Robot Platform for Implementing Collective Behaviors</h2></div><div id="side_content"><img alt="Rubenstein" height="140" src="../../../images/seminar-thumbnails/rubenstein130x140.jpg" width="130" /><br />
+&#160;</div><p>Wednesdays@NICO Seminar, Noon, December 5, Chambers Hall, Lower Level</p>
+<p>Dr. Michael Rubenstein, Wyss Institute for Biologically Inspired Engineering, Harvard University<br />
+<br />
+<strong>Abstract</strong></p>
+<p>In current robotics research there is a vast body of work on algorithms and control methods for groups of decentralized cooperating robots, called a swarm or collective. These algorithms are generally meant to control collectives of hundreds or even thousands of robots; however, for reasons of cost, time, or complexity, they are generally validated in simulation only, or on a group of a few tens of robots. When using a simulation to validate an algorithm for a collective of robots, it is difficult to accurately model the system. This modeling difficulty can lead to disparities in algorithm behavior when operating on a simulated collective versus a real robotic collective. Additionally, operating an algorithm designed for a large collective of robots on just a few may hide scaling issues within the algorithm that can only be uncovered in a much larger collective. To address these issues, I designed a robot called Kilobot, and produced a collective of 1024 of these robots. To the best of my knowledge, this group of 1024 robots is by far the largest cooperating group of distributed robots ever built.<br />
+<br />
+In this talk, I will first discuss the challenges of building a large group of robots and why past efforts in building large groups have been limited to around 100 robots. I will then describe the Kilobot design and how it overcomes the challenges associated with building large robot groups. Next, I will describe my work on three collective algorithms and show their implementation on the Kilobot collective. The first algorithm describes the formation of coordinate systems on a group of simple distributed robots. This coordinate system gives the robots a location within the collective similar to GPS, but uses only local communication in a decentralized system. The second algorithm I will describe uses the coordinate system formed by the robots to control the shape of a collective. This algorithm allows for the group to form any desired solid connected shape. Finally I will talk about an algorithm that allows a large group of simple robots to work together to move an object that is too large for any of the individuals to move. This algorithm provides guarantees about successful transport of the object, and is agnostic to the shape of the object as well as where the robots carry the object.</p>
+<p><br />
+<strong>Biography</strong><br />
+<br />
+Michael Rubenstein is currently a postdoctoral fellow in Radhika Nagpal's Self-Organizing Systems Research Group at Harvard University's School of Engineering and Applied Sciences.&#160; There he is working on Kilobot, a robot designed for testing swarm algorithms in a group of over a thousand robots.&#160; In 2009 he received his Ph.D. from The University of Southern California's School of Computer Science under the supervision of Wei-Min Shen.&#160; His thesis, titled: "Self-Assembly and Self-Healing for Robotic Collectives," details a control algorithm for a simple simulated multi-robot system which guarantees that it can self-assemble and self-heal any desired connected shape.&#160; Most of his research is centered around the design and control of multi-robot systems.&#160; Additional information can be found at his webpage: <a href="http://people.seas.harvard.edu/~mrubenst/">http://people.seas.harvard.edu/&#126;mrubenst/</a></p></div>
+            </div>
+            
+            <div id="footer">
+                <div class="footer_logo_northwestern"><a href="http://northwestern.edu" target="_blank"><img alt="Northwestern University" height="112" src="../../../img/nu-logo.jpg" width="150" /></a></div>
+<a href="www.northwestern.edu" ></a> 
+<div class="footer_text">
+<div class="footer_links">
+<p><a href="../../../index.html">NICO Home</a> | <a href="../../../about/contact-us/index.html">Contact Us</a> | <a href="http://policies.northwestern.edu" target="_blank">University Policy Statements</a> | <a href="http://planitpurple.northwestern.edu" target="_blank">Plan-It Purple</a></p>
+</div>
+<div class="footer_info">
+<p>The Northwestern Institute on Complex Systems (NICO)<br />
+ Chambers Hall 600 Foster Street, Evanston, IL 60208-4057 | Phone: 847-491-2527 | Email: <a href="mailto:nico@northwestern.edu" target="_blank">nico@northwestern.edu</a><br />
+ &#169; 2013 Northwestern University - All rights reserved.</p>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<!-- Localized -->

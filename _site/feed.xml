@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-13T21:49:19+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">ocher</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
+
+h4{
+	
+text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}
+
+p{
+
+	line-height: 160%;
+	text-align: left;
+}
+
+&lt;/style&gt;
+
+&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+
+&lt;h3&gt;
+	황토(Ocher)
+&lt;/h3&gt;
+
+&lt;p style=&quot;line-height: 160%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
+
+황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
+
+전 세계적으로, 그 중에서도 중위도의 온대 지역이나 반건조 지역에 분포하여 지구 육지의 10%는 황토로 뒤덮여 있을 정도이다. 국가 중에서 가장 황토가 많이 있는 나라는 중국이며 63만 km^2km
+​2
+​​ 에 달하는 국토에 황토가 분포하고 있는데, 황하 문명 역시 황토 지역을 중심으로 발전하였다고 한다. 물론 대한민국도 전 국토의 35%가 황토로 덮여 있는데, 상당수가 몇 만 년 전부터 중국으로부터 황사로 들어온 것이라고 한다.
+
+단, 지역에 따라 황토의 구성 비율에 몇 가지 변이가 일어나는데, 진짜 황토뿐 아니라, 반건조 지역의 황토질 모래, 갯벌의 점토질 황토 등 다양한 계열이 있다. 이들을 구성하는 각각의 성분이 서로 구분하기 어렵기 때문에 황토를 구성하는 퇴적물의 유형은 지역마다 다르다.
+
+&lt;/p&gt;	
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
+
+&lt;h4&gt;조성(Composition)&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+&lt;/p&gt;
+&lt;h4&gt;상분석(Phase Analysis)&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+&lt;/p&gt;
+&lt;h4&gt;형상(Morphlogy)&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+&lt;/p&gt;
+&lt;h4&gt;크기(Size Distribution)&lt;/h4&gt;
+&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+&lt;/p&gt;
+
+
+&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/category1/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/category1/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/category1/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
+
+  &lt;div class=&quot;archive-group&quot;&gt;
+    
+    &lt;div id=&quot;#structure&quot;&gt;&lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    
+    &lt;h3 class=&quot;category-head&quot;&gt;structure&lt;/h3&gt;
+    &lt;a name=&quot;structure&quot;&gt;&lt;/a&gt;
+    
+    &lt;article class=&quot;archive-item&quot;&gt;
+      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll.html&quot;&gt;Basic construction(1)&lt;/a&gt;&lt;/h4&gt;
+    &lt;/article&gt;
+    
+  &lt;/div&gt;
+
+  &lt;div class=&quot;archive-group&quot;&gt;
+    
+    &lt;div id=&quot;#category1&quot;&gt;&lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    
+    &lt;h3 class=&quot;category-head&quot;&gt;category1&lt;/h3&gt;
+    &lt;a name=&quot;category1&quot;&gt;&lt;/a&gt;
+    
+    &lt;article class=&quot;archive-item&quot;&gt;
+      &lt;h4&gt;&lt;a href=&quot;/category1/2017/05/13/xxx.html&quot;&gt;Basic construction(2)&lt;/a&gt;&lt;/h4&gt;
+    &lt;/article&gt;
+    
+  &lt;/div&gt;
+
+  &lt;div class=&quot;archive-group&quot;&gt;
+    
+    &lt;div id=&quot;#material&quot;&gt;&lt;/div&gt;
+    &lt;p&gt;&lt;/p&gt;
+    
+    &lt;h3 class=&quot;category-head&quot;&gt;material&lt;/h3&gt;
+    &lt;a name=&quot;material&quot;&gt;&lt;/a&gt;
+    
+    &lt;article class=&quot;archive-item&quot;&gt;
+      &lt;h4&gt;&lt;a href=&quot;/material/2017/06/11/material.html&quot;&gt;ocher&lt;/a&gt;&lt;/h4&gt;
+    &lt;/article&gt;
+    
+  &lt;/div&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="category" /><summary type="html">structure Basic construction(1) category1 Basic construction(2) material ocher</summary></entry><entry><title type="html">Basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+
+&lt;h3&gt;
+	제혀쪽매
+&lt;/h3&gt;
+
+&lt;p style=&quot;line-height: 160%&quot;&gt;이음새란 주나 판으로 사용하는 목재가 부족한 경우 목재끼리 이어서 넓게 혹은 길게 사용할 수 있도록 한 접합구조를 말한다. 이음새는 판재를 이을 때와 골재를 이을 때의 두 가지 경우로 분리되며, 문갑이나 책상의 천판과 같이 일상 사용하는 판의 이음새에는 [홈]과 [턱]으로 된 [쪽매]와 [촉]의 구조로 접합된다. 그림은 제혀쪽매로서 널 한쪽은 화살촉 글 모양으로 모를 내고 상대편에 홈을 파서 물리는 방법이다&lt;/p&gt;	
+&lt;/div&gt;
+
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 0px; display: block;&quot;&gt;
+&lt;iframe style=&quot;margin-bottom:30px;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EruH7n-Ja_k&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NGVlkmmUzVI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry></feed>

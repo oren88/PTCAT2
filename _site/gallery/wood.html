@@ -1,0 +1,244 @@
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<title>PTCAT</title>
+<meta content="Official web site of Northwestern Institute on Complex Systems" name="description" />
+<meta content="NICO, Complex systems, Northwestern University" name="keywords" />
+
+
+<meta content="Wed, 26 Apr 2017 000:25:05 -0500" name="date" />
+
+<meta content="NICO | Northwestern-Argonne" name="title" />
+<meta content="eng" name="language" />
+<meta content="Copyright 2012 Northwestern University" name="rights" />
+<meta content="INDEX, FOLLOW" name="robot" />
+<link href="/styles/mccnicoprint.css" media="print" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/style_customed.css">
+
+<link href="/styles/reset_uni.css" rel="stylesheet" type="text/css" />
+<link href="/styles/universal.css" rel="stylesheet" type="text/css" />
+<link href="/styles/tmp.css" rel="stylesheet" type="text/css" />
+<link href="/styles/homepage.css" rel="stylesheet" type="text/css" />
+<link href="/styles/main-navigation.css" rel="stylesheet" type="text/css" />
+
+<script src="/scripts/jquery/jquery-1.8.0.min.js" type="text/javascript" ></script>
+<script src="/scripts/jquery-ui/jquery-ui-1.8.17.custom.min.js" type="text/javascript" ></script>
+<script src="/scripts/jquery-ui/jquery-ui-tabs.js" type="text/javascript" ></script>
+
+<script type="text/javascript">
+    //For search form
+    function switchText()
+    {
+        if ($(this).val() == $(this).attr('title'))
+            $(this).val('').removeClass('ex');
+        else if ($.trim($(this).val()) == '')
+            $(this).addClass('ex').val($(this).attr('title'));
+    }
+    
+    $(document).ready(function() {
+        $('input[type=text][title!=""]').each(function() {
+            if ($.trim($(this).val()) == '') $(this).val($(this).attr('title'));
+            if ($(this).val() == $(this).attr('title')) $(this).addClass('ex');
+        }).focus(switchText).blur(switchText);
+        
+        $('form').submit(function() {
+            $(this).find('input[type=text][title!=""]').each(function() {
+                if ($(this).val() == $(this).attr('title')) $(this).val('');
+            });
+        });
+    });
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36406748-1']);
+  _gaq.push(['_setDomainName', 'northwestern.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<div id="mainFrame_container">
+        <div class="mainFrame">
+<div id="header">
+                <div class="header_logo_nico"><a href="/index.html"><img alt="Northwestern Institute on Complex Systems" height="110" src="/images/Logo.png" width="196px" /></a></div>
+<div class="header_text">
+<div class="header_organization">Convergence R&D Platform for Traditional Culture & Advanced Technology</div>
+<div class="header_parent_organization"><a hre	f="http://www.northwestern.edu/" target="_blank">Hongik University</a></div>
+</div>
+
+<div class="header_logo_search"><img alt="Search" style="margin-top:20px" height="23" src="/img/structure/nico-search.jpg" width="150" />
+
+<form action="http://googlesearch.northwestern.edu/search" id="search" method="get" name="search"><input class="searchInput" id="q" maxlength="127" name="q" title="Search PTCAT..." type="text" style="margin:21px 0px 0px 5px"/> <input name="sitesearch" type="hidden" value="http://www.nico.northwestern.edu" /> <input name="output" type="hidden" value="xml_no_dtd" /> <input name="client" type="hidden" value="default_oneboxes" /> <input name="proxystylesheet" type="hidden" value="default_oneboxes" /> <input name="site" type="hidden" value="default_collection" /></form>
+</div>
+<!-- <div class="header_logo_kellogg"><a href="http://www.kellogg.northwestern.edu/" target="_blank"><img alt="Kellogg School of Management" height="39" src="img/nico-kellogg.png" width="110" /></a></div> -->
+<div class="header_logo_mccormick"><a href="http://www.mccormick.northwestern.edu/" target="_blank"><img alt="Northwestern McCormick Engineering" height="39" src="/img/nico-mcc.png" width="308" /></a></div>
+            </div>
+            
+            <div id="navigation">
+               <div id="main-nav">
+	                <ul><li class="current"><a href="/index.html">Home</a></li>
+
+	                <li><a href="#">About</a></li>
+	                <li><a href="#">People</a></li>
+	                <li><a href="#">Research</a><div><ul><li><a href="#">Data Science Initiative</a></li>
+	                <li><a href="#">Science of Science</a></li></ul>
+	                </div></li>
+	                <li>
+
+	                <a href="/information/index.html">Information</a><div>
+
+	                <ul>
+	                
+	                	<li><a href="/information/index.html">Materials</a>
+
+							
+							
+
+	                	</li>
+	                	<li><a href="#">Design</a></li>
+	                	<li><a href="/information/index.html">3D Drawing</a></li>
+
+	                	</ul>
+
+	                </div></li>
+
+	                <li><a href="/gallery/index.html">Gallery</a><div><ul>
+	                <li><a href="/gallery/index.html">Image</a></li>
+	                <li><a href="research/Science%20of%20Science.html">Materials</a></li></ul>
+	                </div></li>
+	                <li><a href="#">Seminars &amp; Events</a><div><ul><li><a href="#">Videos</a></li>
+	                <!-- <li><a href="seminar-events/distinguished-speakers.html">NICO Distinguished Speakers Series</a></li> --></ul></div></li><!-- <li><a href="support/index.html">Support NICO</a></li> --><li><a href="contact/index.html">Contact</a><div><ul><li><a href="#">Jobs</a></li></ul></div></li>
+                </ul>
+               </div>
+            </div>
+
+            <script>
+            	$(document).ready(function(){
+
+
+            	})
+            </script>
+<div class="sub_menu_image">
+<ul>
+	<a href="index.html"><li>Structure/Building</li></a>
+	<a href="pattern.html"><li>Traditional Pattern/Design</li></a>
+	<a href="wood.html"><li class="current"> Wood Structure</a>
+</li>
+</ul>
+</div>
+
+<div class="main_image">
+
+		<div class="image">
+			<img src="http://cfs4.blog.daum.net/image/17/blog/2007/04/23/15/05/462c4c9230ef5&filename=%EB%AC%B8%ED%8C%90%EC%A7%9C%EC%9E%84%EC%83%88.jpg" alt="">
+		<h3>Basic Construction(1)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfs6.blog.daum.net/image/21/blog/2007/04/23/15/12/462c4e3a5f81c&filename=%ED%86%B5%ED%8C%90%EC%A7%9C%EC%9E%84.jpg" alt="">
+		
+
+		<h3>Basic Construction(2)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfs13.blog.daum.net/image/25/blog/2008/10/05/21/53/48e8b8af0199c&filename=4321213.jpg" alt="">
+		<h3>Basic Construction(3)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfile27.uf.tistory.com/image/182A77254C9D4F3F8BFF61" alt="">
+			<h3>Basic Construction(4)</h3>
+			<h4>2017 05 18</h4>
+		</div>
+
+	</div> 
+
+	<div class="main_image" style="margin-top:20px">
+
+		<div class="image">
+			<img src="http://cfile4.uf.tistory.com/image/1629AC254C9D4CF36A37D4" alt="">
+		<h3>Basic Construction(5)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfile29.uf.tistory.com/image/177DA5264C9D4C31759D5E" alt="">
+		
+
+		<h3>Basic Construction(6)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfs5.blog.daum.net/image/33/blog/2007/06/01/23/02/466026ed5de6b&filename=%ED%8F%89.jpg" alt="">
+		<h3>Basic Construction(7)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfs2.blog.daum.net/image/19/blog/2007/06/01/22/57/466025b84e453&filename=%EC%97%B0.jpg" alt="">
+			<h3>Basic Construction(8)</h3>
+			<h4>2017 05 18</h4>
+		</div>
+
+	</div>
+
+	<div class="main_image" style="margin-top:20px; margin-bottom:30px">
+
+		<div class="image">
+			<img src="http://cfs6.blog.daum.net/image/21/blog/2007/04/23/15/12/462c4e3a5f81c&filename=%ED%86%B5%ED%8C%90%EC%A7%9C%EC%9E%84.jpg" alt="">
+		<h3>Basic Construction(5)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfs7.blog.daum.net/image/25/blog/2007/06/01/22/53/466024f59d1b2&filename=%EA%B0%9C.jpg" alt="">
+		
+
+		<h3>Basic Construction(6)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfile27.uf.tistory.com/image/182A77254C9D4F3F8BFF61" alt="">
+		<h3>Basic Construction(7)</h3>
+		<h4>2017 05 18</h4>
+		</div>
+
+		<div class="image">
+			<img src="http://cfile29.uf.tistory.com/image/157D74264C9D4C1B33B2DF" alt="">
+			<h3>Basic Construction(8)</h3>
+			<h4>2017 05 18</h4>
+		</div>
+
+	</div>
+
+
+</div>
+
+ <div id="footer">
+                <div class="footer_logo_northwestern"><a href="http://northwestern.edu" target="_blank"><img alt="Northwestern University" height="112" src="/images/Logo.png" width="150" /></a></div>
+<a href="www.northwestern.edu" ></a> 
+<div class="footer_text">
+<div class="footer_links">
+<p><a href="index.html">PTCAT Home</a> | <a href="about/contact-us/index.html">Contact Us</a> | <a href="http://policies.northwestern.edu" target="_blank">University Policy Statements</a> | <a href="http://planitpurple.northwestern.edu" target="_blank">Plan-It Purple</a></p>
+</div>
+<div class="footer_info">
+<p>PTCAT (PTCAT)<br />
+ Chambers Hall 600 Foster Street, Evanston, IL 60208-4057 | Phone: 847-491-2527 | Email: <a href="mailto:nico@northwestern.edu" target="_blank">nico@northwestern.edu</a><br />
+ &#169; 2013 PTCAT - All rights reserved.</p>
+</div>
+</div>
+            </div>
+    </div>
+</div>
