@@ -2,19 +2,27 @@
 
 ---
 
+
 {% include head.html %}
+
+<link rel="stylesheet" href="{{site.baseurl}}/post.css">
 
 <div id="mainFrame_container">
         <div class="mainFrame">
 {% include header.html %}
+{% include mhead.html %}
 <div class="sub_menu_image">
-		<div style="margin-left:30px;">
-					<h3>{{page.tag}}</h3>
-					<h3>{{page.title}}</h3>				
-		</div>
+		<div style="margin-left:35px; margin-top:20px; display:flex">
 
+					<div class="title" style="font-size:25px">{{page.title}}</div> 
+		</div>
 <br>
 
+<div style="margin:0px auto; width:300px; height:300px; margin-bottom:-30px; margin-top">
+
+	<img style="width:250px; height:250px;" src="{{site.baseurl}}/post_images/{{page.link}}.jpg" alt="{{page.link}}">
+
+</div>
 
 </div>
 

@@ -6,8 +6,8 @@
         <div class="mainFrame">
 {% include header.html %}
 <div class="sub_menu_image">
+{% include mhead.html %}
 		<div style="margin-left:30px;">
-				<h3>information - Material</h3>
 		</div>
 <ul>
 </li>
@@ -36,3 +36,12 @@
 {% include footer.html %}
     </div>
 </div>
+
+<script>
+  
+$(document).ready(
+  function(){
+$('#information').find('a').css("color","purple");
+})
+
+</script>

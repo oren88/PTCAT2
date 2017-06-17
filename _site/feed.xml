@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-14T00:21:10+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-17T16:44:32+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">ocher</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
 
 h4{
@@ -18,11 +18,11 @@ p{
 
 &lt;/style&gt;
 
-&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
 
-&lt;h3&gt;
-	황토(Ocher)
-&lt;/h3&gt;
+
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+
 
 &lt;p style=&quot;line-height: 160%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
 
@@ -37,27 +37,183 @@ p{
 &lt;/p&gt;	
 &lt;/div&gt;
 
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
 &lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
 
-&lt;h4&gt;조성(Composition)&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No.&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
 
-&lt;/p&gt;
-&lt;h4&gt;상분석(Phase Analysis)&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;/p&gt;
-&lt;h4&gt;형상(Morphlogy)&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.747&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01516&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.3186&lt;/td&gt;
+	&lt;td&gt;0.6651&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;/p&gt;
-&lt;h4&gt;크기(Size Distribution)&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;31.7&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01637&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;764.5741&lt;/td&gt;
+	&lt;td&gt;28.2188&lt;/td&gt;
+&lt;/tr&gt;
 
-&lt;/p&gt;
+&lt;tr&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;54.0&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01219&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;851.5258&lt;/td&gt;
+	&lt;td&gt;48.1139&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.114&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00251&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;2.8283&lt;/td&gt;
+	&lt;td&gt;0.1013&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;K2O&lt;/td&gt;
+	&lt;td&gt;2.06&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00234&lt;/td&gt;
+	&lt;td&gt;K-KA&lt;/td&gt;
+	&lt;td&gt;122.8162&lt;/td&gt;
+	&lt;td&gt;1.8368&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;0.196&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00210&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;9.7897&lt;/td&gt;
+	&lt;td&gt;0.1744&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;TiO2&lt;/td&gt;
+	&lt;td&gt;1.15&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00622&lt;/td&gt;
+	&lt;td&gt;Ti-KA&lt;/td&gt;
+	&lt;td&gt;14.7502&lt;/td&gt;
+	&lt;td&gt;1.0202&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;Cr2O3&lt;/td&gt;
+	&lt;td&gt;0.0266&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00388&lt;/td&gt;
+	&lt;td&gt;Cr-KA&lt;/td&gt;
+	&lt;td&gt;1.0869&lt;/td&gt;
+	&lt;td&gt;0.0237&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;Fe203&lt;/td&gt;
+	&lt;td&gt;9.93&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00402&lt;/td&gt;
+	&lt;td&gt;Fe-KA&lt;/td&gt;
+	&lt;td&gt;912.9433&lt;/td&gt;
+	&lt;td&gt;8.8503&lt;/td&gt;
+&lt;/tr&gt; 
+
+&lt;/table&gt;
+
+&lt;br /&gt;
+
+&lt;h4 style=&quot;margin-bottom:5px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher7&quot; /&gt;
 
 
-&lt;/div&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/all/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/all/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/all/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
+
+&lt;br /&gt;
+
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;- 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/ocher3.jpg&quot; alt=&quot;ocher3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/ocher4.jpg&quot; alt=&quot;ocher4.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/ocher5.jpg&quot; alt=&quot;ocher5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/ocher6.jpg&quot; alt=&quot;ocher6.jpg&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 style=&quot;margin-top:15px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+	
+&lt;img src=&quot;/post_images/ocher2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher2&quot; /&gt;
+
+&lt;/div&gt;
+
+&lt;script&gt;
+	
+$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/all/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/all/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/all/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
 
   &lt;div class=&quot;archive-group&quot;&gt;
     
