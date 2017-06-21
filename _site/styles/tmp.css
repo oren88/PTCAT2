@@ -513,8 +513,8 @@ body {
 
 /* ### BEGIN FOOTER ### */
 #footer {
-    width: 932px;
-    margin: 0px 12px;
+    width: 956px;
+    margin: 0px auto;
     padding: 0px 10px;
     background-color: #B7DA26;
 }

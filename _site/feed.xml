@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-17T16:44:32+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-20T17:55:10+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">ocher</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
 
 h4{
@@ -21,10 +21,10 @@ p{
 &lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
 
 
-&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
 
 
-&lt;p style=&quot;line-height: 160%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
+&lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
 
 황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
 
@@ -41,10 +41,10 @@ p{
 
 &lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
 
-&lt;h4 style=&quot;margin-bottom:0px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
 &lt;table&gt;
 &lt;tr&gt;
-	&lt;th&gt;No.&lt;/th&gt;
+	&lt;th&gt;No&lt;/th&gt;
 	&lt;th&gt;Component&lt;/th&gt;
 	&lt;th&gt;Result&lt;/th&gt;
 	&lt;th&gt;Unit&lt;/th&gt;
@@ -87,7 +87,7 @@ p{
 	&lt;td&gt;28.2188&lt;/td&gt;
 &lt;/tr&gt;
 
-&lt;tr&gt;
+&lt;tr class=&quot;table_highlight&quot;&gt;
 	&lt;td&gt;4&lt;/td&gt;
 	&lt;td&gt;SiO2&lt;/td&gt;
 	&lt;td&gt;54.0&lt;/td&gt;
@@ -152,7 +152,7 @@ p{
 	&lt;td&gt;0.0924&lt;/td&gt;
 &lt;/tr&gt;
 
-&lt;tr&gt;
+&lt;tr class=&quot;table_second&quot;&gt;
 	&lt;td&gt;9&lt;/td&gt;
 	&lt;td&gt;Cr2O3&lt;/td&gt;
 	&lt;td&gt;0.0266&lt;/td&gt;
@@ -178,9 +178,36 @@ p{
 
 &lt;br /&gt;
 
-&lt;h4 style=&quot;margin-bottom:5px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
 &lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher7&quot; /&gt;
 
+&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Quartz low&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Chirstobalite&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
 
 
 &lt;br /&gt;
@@ -200,9 +227,37 @@ p{
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h4 style=&quot;margin-top:15px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
 	
 &lt;img src=&quot;/post_images/ocher2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher2&quot; /&gt;
+
+&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Maximum Volume&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Minum Volume&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Average Volume&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Medium Volume&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
 
 &lt;/div&gt;
 

@@ -18,12 +18,15 @@
 </div>
 
 
-<div style="margin:0px 0px 30px 24px; width:150px; height:150px; overflow: hidden;">
+<div style="margin:0px 0px 30px 24px; width:150px; height:180px; overflow: hidden;">
   {% for post in site.categories.material %}
   <div style="text-align: center">
   	<a href="{{ post.url }}">
   	<img style="width:100%; margin-bottom:10px" src="{{site.baseurl}}/post_images/{{post.link}}.jpg" alt="basicConstruction">
+      {{ post.ktitle }}
+      <br>
       {{ post.title }}</a>
+      
 	</div>
   {% endfor %}
 </div>

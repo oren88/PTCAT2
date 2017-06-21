@@ -28,6 +28,25 @@ Copy
 <script src="/scripts/jquery-ui/jquery-ui-1.8.17.custom.min.js" type="text/javascript" ></script>
 <script src="/scripts/jquery-ui/jquery-ui-tabs.js" type="text/javascript" ></script>
 
+
+<style>
+a{
+  color:black;
+  text-decoration: none;
+  font-size:14px;
+  line-height:130%;
+}  
+
+a:hover{
+
+  color:purple;
+  text-decoration: none;
+  font-size:14px;
+
+}
+
+</style>
+
 <script type="text/javascript">
     //For search form
     function switchText()
@@ -66,6 +85,9 @@ Copy
 
 </script>
 </head>
+
+<link rel="stylesheet" href="/post.css">
+
 <div id="mainFrame_container">
         <div class="mainFrame">
 <div id="header">
@@ -87,9 +109,9 @@ Copy
                <div id="main-nav">
 	                <ul><li class="current"><a href="/index.html">Home</a></li>
 
-	                <li><a href="#">About</a></li>
-	                <li><a href="#">People</a></li>
-	                <li><a href="#">Research</a><div><ul><li><a href="#">Data Science Initiative</a></li>
+	                <li><a href="/about/index.html">About</a></li>
+	                <li><a href="/people/index.html">People</a></li>
+	                <li><a href="/research/index.html">Research</a><div><ul><li><a href="#">Data Science Initiative</a></li>
 	                <li><a href="#">Science of Science</a></li></ul>
 	                </div></li>
 
@@ -118,8 +140,16 @@ Copy
 	                <li><a href="/gallery/index.html">Image</a></li>
 	                <li><a href="research/Science%20of%20Science.html">Materials</a></li></ul>
 	                </div></li>
-	                <li><a href="#">Seminars &amp; Events</a><div><ul><li><a href="#">Videos</a></li>
-	                <!-- <li><a href="seminar-events/distinguished-speakers.html">NICO Distinguished Speakers Series</a></li> --></ul></div></li><!-- <li><a href="support/index.html">Support NICO</a></li> --><li><a href="contact/index.html">Contact</a><div><ul><li><a href="#">Jobs</a></li></ul></div></li>
+	                
+					
+					<li><a href="">Education</a></li>
+	                
+	                <li><a href="#">Seminars</a><div>
+
+	                </div></li><!-- <li><a href="support/index.html">Support NICO</a></li> -->
+					
+
+	                <li><a href="contact/index.html">Contact</a><div><ul><li><a href="#">Jobs</a></li></ul></div></li>
                 </ul>
                </div>
             </div>
@@ -133,9 +163,9 @@ Copy
 
 
 <ul style="display:flex">
-<strong><li>Structure / Building</li></strong>
-<li>Traditional Pattern / Design</li>
-<li>Wood Structure</li>
+<a href="/gallery/index.html"><strong><li>Structure / Building</li></strong></a>
+<a href="/gallery/pattern.html"><li>Traditional Pattern / Design</li></a>
+<a href="/gallery/wood.html"><li>Wood Structure</li></a>
 </ul>
 
 		<div style="margin-left:30px;">
