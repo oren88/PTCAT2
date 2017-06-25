@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  Basic construction(1)
+title:  basic construction(2)
+ktitle: 제혀쪽매(1)
 date:   2017-05-12 04:00:42 +0900
 categories: structure
 link: bc1

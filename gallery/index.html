@@ -8,6 +8,7 @@
 <div id="mainFrame_container">
         <div class="mainFrame">
 {% include header.html %}
+
 <div class="sub_menu_image">
 
 
@@ -29,20 +30,29 @@
 </div>
 
 
-<div style="margin:0px 0px 30px 24px; width:150px; height:150px; overflow: hidden;">
-  {% for post in site.categories.structure %}
-  <div style="text-align: center">
+  <div style="margin:20px 0px 30px 24px; width:100%; height:100%; overflow:visible" >
+
+
+    {% for post in site.categories.house %}
+
+  <div style="width:30%; height:auto; display:inline-block; margin-bottom:0px; ">
+  
   	<a href="{{ post.url }}">
-  	<img style="width:100%; margin-bottom:10px" src="{{site.baseurl}}/post_images/{{post.link}}.jpg" alt="basicConstruction">
-      {{ post.title }}</a>
-	</div>
-  {% endfor %}
+    <div style="width:300px; height:160px">
+  	<img style="width:100%; height:auto; display:block; margin-bottom:10px" src="{{site.baseurl}}/post_images/{{post.link}}.jpg" alt="basicConstruction">
+    </div>
+      <p style="margin-bottom:8px; text-align: center;">
+      {{ post.title }} </p>
+      <p style="text-align: center;">{{post.ktitle}} </p>
+      </a>
+ 
+
 </div>
 
+{% endfor %}
+
+</div>
 		
-
-
-</div>
 
 {% include footer.html %}
     </div>

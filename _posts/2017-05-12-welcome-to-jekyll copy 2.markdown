@@ -1,0 +1,23 @@
+---
+layout: post
+title:  basic construction(4)
+ktitle: 제혀쪽매(4)
+date:   2017-05-12 04:00:42 +0900
+categories: structure
+link: bc3
+tag: 3Ddrawing
+---
+
+<div style="width:900px; margin:0px auto">
+
+<h3>
+	제혀쪽매
+</h3>
+
+<p style="line-height: 160%">이음새란 주나 판으로 사용하는 목재가 부족한 경우 목재끼리 이어서 넓게 혹은 길게 사용할 수 있도록 한 접합구조를 말한다. 이음새는 판재를 이을 때와 골재를 이을 때의 두 가지 경우로 분리되며, 문갑이나 책상의 천판과 같이 일상 사용하는 판의 이음새에는 [홈]과 [턱]으로 된 [쪽매]와 [촉]의 구조로 접합된다. 그림은 제혀쪽매로서 널 한쪽은 화살촉 글 모양으로 모를 내고 상대편에 홈을 파서 물리는 방법이다</p>	
+</div>	
+
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+<iframe style="margin-bottom:30px;" width="560" height="315" src="https://www.youtube.com/embed/EruH7n-Ja_k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NGVlkmmUzVI" frameborder="0" allowfullscreen></iframe>
+</div>
