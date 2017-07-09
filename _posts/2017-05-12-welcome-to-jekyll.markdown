@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  basic construction(2)
+title:  basic construction(1)
 ktitle: 제혀쪽매(1)
 date:   2017-05-12 04:00:42 +0900
 categories: structure
-link: bc1
+link: bc
 tag: 3Ddrawing
 ---
 

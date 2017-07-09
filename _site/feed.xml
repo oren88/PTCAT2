@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-26T01:41:55+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-10T05:36:16+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/11/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html">&lt;style&gt;
 
 h4{
@@ -806,7 +806,7 @@ $(document).ready(
 $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
 })
 
-&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">ocher</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Loess</title><link href="http://localhost:4000/material/2017/06/11/material.html" rel="alternate" type="text/html" title="Loess" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/11/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/11/material.html">&lt;style&gt;
 
 h4{
 	
@@ -894,7 +894,7 @@ p{
 	&lt;td&gt;28.2188&lt;/td&gt;
 &lt;/tr&gt;
 
-&lt;tr class=&quot;table_highlight&quot;&gt;
+&lt;tr class=&quot;&quot;&gt;
 	&lt;td&gt;4&lt;/td&gt;
 	&lt;td&gt;SiO2&lt;/td&gt;
 	&lt;td&gt;54.0&lt;/td&gt;
@@ -959,7 +959,7 @@ p{
 	&lt;td&gt;0.0924&lt;/td&gt;
 &lt;/tr&gt;
 
-&lt;tr class=&quot;table_second&quot;&gt;
+&lt;tr class=&quot;&quot;&gt;
 	&lt;td&gt;9&lt;/td&gt;
 	&lt;td&gt;Cr2O3&lt;/td&gt;
 	&lt;td&gt;0.0266&lt;/td&gt;
@@ -982,13 +982,15 @@ p{
 &lt;/tr&gt; 
 
 &lt;/table&gt;
+&lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 1 -1. Chemical Composition of Loess]&lt;/h5&gt;
 
 &lt;br /&gt;
 
 &lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
-&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher7&quot; /&gt;
+&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:80%; margin-bottom:10px;&quot; alt=&quot;ocher7&quot; /&gt;
+&lt;h5&gt;[Figure 1-1. X-Ray Diffraction of Loess Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
 
-&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
+&lt;table style=&quot;width:841px; margin:30px 30px 10px 20px; margin-top:40px&quot;&gt;
 	&lt;tr&gt;
 		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
 		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
@@ -1004,7 +1006,7 @@ p{
 		&lt;td&gt;36.4&lt;/td&gt;
 	&lt;/tr&gt;
 
-		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;tr class=&quot;&quot;&gt;
 		&lt;td&gt;Chirstobalite&lt;/td&gt;
 		&lt;td&gt;0.5%&lt;/td&gt;
 	&lt;/tr&gt;
@@ -1016,6 +1018,7 @@ p{
 
 &lt;/table&gt;
 
+&lt;h5&gt;[Table 1-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
 
 &lt;br /&gt;
 
@@ -1034,11 +1037,16 @@ p{
 	&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+
 &lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
 	
 &lt;img src=&quot;/post_images/ocher2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher2&quot; /&gt;
 
-&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
+&lt;h5 style=&quot;margin-top:-25px; margin-bottom:30px;&quot;&gt;[Figure 1-3. Particle size analysis]&lt;/h5&gt;
+
+
+&lt;table style=&quot;width:841px; margin:10px 30px 10px 20px;&quot;&gt;
 	&lt;tr&gt;
 		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
 		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
@@ -1054,7 +1062,7 @@ p{
 		&lt;td&gt;36.4&lt;/td&gt;
 	&lt;/tr&gt;
 
-		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;tr class=&quot;&quot;&gt;
 		&lt;td&gt;Average Volume&lt;/td&gt;
 		&lt;td&gt;0.5%&lt;/td&gt;
 	&lt;/tr&gt;
@@ -1065,6 +1073,8 @@ p{
 	&lt;/tr&gt;
 
 &lt;/table&gt;
+
+&lt;h5&gt;[Table 1-1. Summarized particle size analysis]​&lt;/h5&gt;
 
 &lt;/div&gt;
 
@@ -2164,23 +2174,7 @@ $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
     &lt;a name=&quot;structure&quot;&gt;&lt;/a&gt;
     
     &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll.html&quot;&gt;basic construction(2)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll-copy.html&quot;&gt;basic construction(2)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll-copy-4.html&quot;&gt;basic construction(3)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll-copy-3.html&quot;&gt;basic construction(3)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll-copy-2.html&quot;&gt;basic construction(4)&lt;/a&gt;&lt;/h4&gt;
+      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/welcome-to-jekyll.html&quot;&gt;basic construction(1)&lt;/a&gt;&lt;/h4&gt;
     &lt;/article&gt;
     
   &lt;/div&gt;
@@ -2264,7 +2258,7 @@ $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
     &lt;a name=&quot;material&quot;&gt;&lt;/a&gt;
     
     &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/material/2017/06/11/material.html&quot;&gt;ocher&lt;/a&gt;&lt;/h4&gt;
+      &lt;h4&gt;&lt;a href=&quot;/material/2017/06/11/material.html&quot;&gt;Loess&lt;/a&gt;&lt;/h4&gt;
     &lt;/article&gt;
     
   &lt;/div&gt;
@@ -2311,7 +2305,7 @@ $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
     
   &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">structure basic construction(2) basic construction(2) basic construction(3) basic construction(3) basic construction(4) all Basic construction(2) house structure concrete concrete gypsum gypsum lime lime material ocher seaweed seaweed stratch stratch whiteocher white ocher</summary></entry><entry><title type="html">basic construction(2)</title><link href="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="basic construction(2)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">structure basic construction(1) all Basic construction(2) house structure concrete concrete gypsum gypsum lime lime material Loess seaweed seaweed stratch stratch whiteocher white ocher</summary></entry><entry><title type="html">basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html" rel="alternate" type="text/html" title="basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/welcome-to-jekyll.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
 
 &lt;h3&gt;
 	제혀쪽매
