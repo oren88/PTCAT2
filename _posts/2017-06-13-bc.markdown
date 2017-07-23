@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  basic construction(1)
-ktitle: 제혀쪽매(1)
+ktitle: 제혀쪽매
 date:   2017-05-12 04:00:42 +0900
 categories: structure
 link: bc
@@ -18,6 +18,7 @@ tag: 3Ddrawing
 </div>	
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
-<iframe style="margin-bottom:30px;" width="560" height="315" src="https://www.youtube.com/embed/EruH7n-Ja_k" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NGVlkmmUzVI" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo" frameborder="0" allowfullscreen></iframe>
+
 </div>
