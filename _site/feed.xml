@@ -1,5 +1,286 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-24T07:05:33+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/11/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html">&lt;style&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-01T23:49:22+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
+layout: post
+title:  structure
+date:   2017-06-10 18:00:01 -0600
+link: structure
+tag: structure
+categories: house
+ktitle: 한옥구조
+—&lt;/p&gt;
+
+&lt;style&gt;
+
+h4{
+	
+text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}
+
+p{
+
+	line-height: 160%;
+	text-align: left;
+}
+
+&lt;/style&gt;
+
+&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
+
+
+&lt;!-- &lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br&gt;
+
+
+&lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
+
+황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
+
+전 세계적으로, 그 중에서도 중위도의 온대 지역이나 반건조 지역에 분포하여 지구 육지의 10%는 황토로 뒤덮여 있을 정도이다. 국가 중에서 가장 황토가 많이 있는 나라는 중국이며 63만 km^2km
+​2
+​​ 에 달하는 국토에 황토가 분포하고 있는데, 황하 문명 역시 황토 지역을 중심으로 발전하였다고 한다. 물론 대한민국도 전 국토의 35%가 황토로 덮여 있는데, 상당수가 몇 만 년 전부터 중국으로부터 황사로 들어온 것이라고 한다.
+
+단, 지역에 따라 황토의 구성 비율에 몇 가지 변이가 일어나는데, 진짜 황토뿐 아니라, 반건조 지역의 황토질 모래, 갯벌의 점토질 황토 등 다양한 계열이 있다. 이들을 구성하는 각각의 성분이 서로 구분하기 어렵기 때문에 황토를 구성하는 퇴적물의 유형은 지역마다 다르다.
+
+&lt;/p&gt;	
+&lt;/div&gt;	
+
+&lt;br&gt;
+
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
+
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.747&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01516&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.3186&lt;/td&gt;
+	&lt;td&gt;0.6651&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;31.7&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01637&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;764.5741&lt;/td&gt;
+	&lt;td&gt;28.2188&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_highlight&quot; &gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;54.0&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01219&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;851.5258&lt;/td&gt;
+	&lt;td&gt;48.1139&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.114&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00251&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;2.8283&lt;/td&gt;
+	&lt;td&gt;0.1013&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;K2O&lt;/td&gt;
+	&lt;td&gt;2.06&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00234&lt;/td&gt;
+	&lt;td&gt;K-KA&lt;/td&gt;
+	&lt;td&gt;122.8162&lt;/td&gt;
+	&lt;td&gt;1.8368&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;0.196&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00210&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;9.7897&lt;/td&gt;
+	&lt;td&gt;0.1744&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;TiO2&lt;/td&gt;
+	&lt;td&gt;1.15&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00622&lt;/td&gt;
+	&lt;td&gt;Ti-KA&lt;/td&gt;
+	&lt;td&gt;14.7502&lt;/td&gt;
+	&lt;td&gt;1.0202&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.104&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01409&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;0.3872&lt;/td&gt;
+	&lt;td&gt;0.0924&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr class=&quot;table_second&quot;&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;Cr2O3&lt;/td&gt;
+	&lt;td&gt;0.0266&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00388&lt;/td&gt;
+	&lt;td&gt;Cr-KA&lt;/td&gt;
+	&lt;td&gt;1.0869&lt;/td&gt;
+	&lt;td&gt;0.0237&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+	&lt;td&gt;10&lt;/td&gt;
+	&lt;td&gt;Fe203&lt;/td&gt;
+	&lt;td&gt;9.93&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00402&lt;/td&gt;
+	&lt;td&gt;Fe-KA&lt;/td&gt;
+	&lt;td&gt;912.9433&lt;/td&gt;
+	&lt;td&gt;8.8503&lt;/td&gt;
+&lt;/tr&gt; 
+
+&lt;/table&gt;
+
+&lt;br&gt;
+
+&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;7&quot;&gt;
+
+&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Quartz low&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Chirstobalite&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+
+&lt;br&gt;
+
+&lt;h4 style=&quot;margin-top:28px&quot; &gt;- 형상(Morphlogy)&lt;/h4&gt;
+&lt;br&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
+	&lt;img src=&quot;/post_images/3.jpg&quot; alt=&quot;3.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/4.jpg&quot; alt=&quot;4.jpg&quot;&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/5.jpg&quot; alt=&quot;5.jpg&quot;&gt;
+	&lt;img src=&quot;/post_images/6.jpg&quot; alt=&quot;6.jpg&quot;&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+	
+&lt;img src=&quot;/post_images/2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;2&quot;&gt;
+
+&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
+		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td&gt;Maximum Volume&lt;/td&gt;
+		&lt;td&gt;59.9%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Minum Volume&lt;/td&gt;
+		&lt;td&gt;36.4&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr class=&quot;table_highlight&quot;&gt;
+		&lt;td&gt;Average Volume&lt;/td&gt;
+		&lt;td&gt;0.5%&lt;/td&gt;
+	&lt;/tr&gt;
+
+		&lt;tr&gt;
+		&lt;td&gt;Medium Volume&lt;/td&gt;
+		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+	&lt;/tr&gt;
+
+&lt;/table&gt;
+
+&lt;/div&gt; --&gt;
+
+
+&lt;script&gt;
+	
+$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+
+&lt;/script&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">매— layout: post title: structure date: 2017-06-10 18:00:01 -0600 link: structure tag: structure categories: house ktitle: 한옥구조 —</summary></entry><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/11/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/11/whiteocher.html">&lt;style&gt;
 
 h4{
 	
@@ -1892,431 +2173,42 @@ $(document).ready(
 $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
 })
 
-&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">structure</title><link href="http://localhost:4000/house/2017/06/11/concrete-copy.html" rel="alternate" type="text/html" title="structure" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/house/2017/06/11/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/house/2017/06/11/concrete-copy.html">&lt;style&gt;
-
-h4{
-	
-text-align: left;
-margin-left:0px;
-margin-bottom:5px;
-margin-top:18px;
-color:#333;
-}
-
-p{
-
-	line-height: 160%;
-	text-align: left;
-}
-
-&lt;/style&gt;
-
-&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
-
-
-&lt;!-- &lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br&gt;
-
-
-&lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
-
-황토 입자의 크기는 0.02~0.05mm이며, 조립질과 중립질의 먼지를 포함한다. 이러한 크기의 비율은 무게비로 50% 정도이다. 
-
-전 세계적으로, 그 중에서도 중위도의 온대 지역이나 반건조 지역에 분포하여 지구 육지의 10%는 황토로 뒤덮여 있을 정도이다. 국가 중에서 가장 황토가 많이 있는 나라는 중국이며 63만 km^2km
-​2
-​​ 에 달하는 국토에 황토가 분포하고 있는데, 황하 문명 역시 황토 지역을 중심으로 발전하였다고 한다. 물론 대한민국도 전 국토의 35%가 황토로 덮여 있는데, 상당수가 몇 만 년 전부터 중국으로부터 황사로 들어온 것이라고 한다.
-
-단, 지역에 따라 황토의 구성 비율에 몇 가지 변이가 일어나는데, 진짜 황토뿐 아니라, 반건조 지역의 황토질 모래, 갯벌의 점토질 황토 등 다양한 계열이 있다. 이들을 구성하는 각각의 성분이 서로 구분하기 어렵기 때문에 황토를 구성하는 퇴적물의 유형은 지역마다 다르다.
-
-&lt;/p&gt;	
-&lt;/div&gt;	
-
-&lt;br&gt;
-
-&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
-
-&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br&gt;
-&lt;table&gt;
-&lt;tr&gt;
-	&lt;th&gt;No&lt;/th&gt;
-	&lt;th&gt;Component&lt;/th&gt;
-	&lt;th&gt;Result&lt;/th&gt;
-	&lt;th&gt;Unit&lt;/th&gt;
-	&lt;th&gt;Det.limit&lt;/th&gt;
-	&lt;th&gt;El.line&lt;/th&gt;
-	&lt;th&gt;Intensity&lt;/th&gt;
-	&lt;th&gt;w/o normal&lt;/th&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;1&lt;/td&gt;
-	&lt;td&gt;Na20&lt;/td&gt;
-	&lt;td&gt;0.104&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.01409&lt;/td&gt;
-	&lt;td&gt;Na-KA&lt;/td&gt;
-	&lt;td&gt;0.3872&lt;/td&gt;
-	&lt;td&gt;0.0924&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;2&lt;/td&gt;
-	&lt;td&gt;MgO&lt;/td&gt;
-	&lt;td&gt;0.747&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.01516&lt;/td&gt;
-	&lt;td&gt;Mg-KA&lt;/td&gt;
-	&lt;td&gt;7.3186&lt;/td&gt;
-	&lt;td&gt;0.6651&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;3&lt;/td&gt;
-	&lt;td&gt;Al2O3&lt;/td&gt;
-	&lt;td&gt;31.7&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.01637&lt;/td&gt;
-	&lt;td&gt;Al-KA&lt;/td&gt;
-	&lt;td&gt;764.5741&lt;/td&gt;
-	&lt;td&gt;28.2188&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr class=&quot;table_highlight&quot; &gt;
-	&lt;td&gt;4&lt;/td&gt;
-	&lt;td&gt;SiO2&lt;/td&gt;
-	&lt;td&gt;54.0&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.01219&lt;/td&gt;
-	&lt;td&gt;Si-KA&lt;/td&gt;
-	&lt;td&gt;851.5258&lt;/td&gt;
-	&lt;td&gt;48.1139&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;5&lt;/td&gt;
-	&lt;td&gt;SO3&lt;/td&gt;
-	&lt;td&gt;0.114&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00251&lt;/td&gt;
-	&lt;td&gt;S-KA&lt;/td&gt;
-	&lt;td&gt;2.8283&lt;/td&gt;
-	&lt;td&gt;0.1013&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;6&lt;/td&gt;
-	&lt;td&gt;K2O&lt;/td&gt;
-	&lt;td&gt;2.06&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00234&lt;/td&gt;
-	&lt;td&gt;K-KA&lt;/td&gt;
-	&lt;td&gt;122.8162&lt;/td&gt;
-	&lt;td&gt;1.8368&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;7&lt;/td&gt;
-	&lt;td&gt;CaO&lt;/td&gt;
-	&lt;td&gt;0.196&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00210&lt;/td&gt;
-	&lt;td&gt;Ca-KA&lt;/td&gt;
-	&lt;td&gt;9.7897&lt;/td&gt;
-	&lt;td&gt;0.1744&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;td&gt;8&lt;/td&gt;
-	&lt;td&gt;TiO2&lt;/td&gt;
-	&lt;td&gt;1.15&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00622&lt;/td&gt;
-	&lt;td&gt;Ti-KA&lt;/td&gt;
-	&lt;td&gt;14.7502&lt;/td&gt;
-	&lt;td&gt;1.0202&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;8&lt;/td&gt;
-	&lt;td&gt;Na20&lt;/td&gt;
-	&lt;td&gt;0.104&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.01409&lt;/td&gt;
-	&lt;td&gt;Na-KA&lt;/td&gt;
-	&lt;td&gt;0.3872&lt;/td&gt;
-	&lt;td&gt;0.0924&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr class=&quot;table_second&quot;&gt;
-	&lt;td&gt;9&lt;/td&gt;
-	&lt;td&gt;Cr2O3&lt;/td&gt;
-	&lt;td&gt;0.0266&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00388&lt;/td&gt;
-	&lt;td&gt;Cr-KA&lt;/td&gt;
-	&lt;td&gt;1.0869&lt;/td&gt;
-	&lt;td&gt;0.0237&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-	&lt;td&gt;10&lt;/td&gt;
-	&lt;td&gt;Fe203&lt;/td&gt;
-	&lt;td&gt;9.93&lt;/td&gt;
-	&lt;td&gt;mass%&lt;/td&gt;
-	&lt;td&gt;0.00402&lt;/td&gt;
-	&lt;td&gt;Fe-KA&lt;/td&gt;
-	&lt;td&gt;912.9433&lt;/td&gt;
-	&lt;td&gt;8.8503&lt;/td&gt;
-&lt;/tr&gt; 
-
-&lt;/table&gt;
-
-&lt;br&gt;
-
-&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
-&lt;img src=&quot;/post_images/structure7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;structure7&quot;&gt;
-
-&lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
-	&lt;tr&gt;
-		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
-		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td&gt;Quartz low&lt;/td&gt;
-		&lt;td&gt;59.9%&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr&gt;
-		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
-		&lt;td&gt;36.4&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr class=&quot;table_highlight&quot;&gt;
-		&lt;td&gt;Chirstobalite&lt;/td&gt;
-		&lt;td&gt;0.5%&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr&gt;
-		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
-		&lt;td&gt;Ht 3.2%&lt;/td&gt;
-	&lt;/tr&gt;
-
-&lt;/table&gt;
-
-
-&lt;br&gt;
-
-&lt;h4 style=&quot;margin-top:28px&quot; &gt;- 형상(Morphlogy)&lt;/h4&gt;
-&lt;br&gt;
-&lt;div class=&quot;morphlogy&quot;&gt;
-
-&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;  &gt;
-	&lt;img src=&quot;/post_images/structure3.jpg&quot; alt=&quot;structure3.jpg&quot;&gt;
-	&lt;img src=&quot;/post_images/structure4.jpg&quot; alt=&quot;structure4.jpg&quot;&gt;
-&lt;/div&gt;
-
-&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
-	&lt;img src=&quot;/post_images/structure5.jpg&quot; alt=&quot;structure5.jpg&quot;&gt;
-	&lt;img src=&quot;/post_images/structure6.jpg&quot; alt=&quot;structure6.jpg&quot;&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
-	
-&lt;img src=&quot;/post_images/structure2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;structure2&quot;&gt;
-
-&lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
-	&lt;tr&gt;
-		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
-		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
-	&lt;/tr&gt;
-
-	&lt;tr&gt;
-		&lt;td&gt;Maximum Volume&lt;/td&gt;
-		&lt;td&gt;59.9%&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr&gt;
-		&lt;td&gt;Minum Volume&lt;/td&gt;
-		&lt;td&gt;36.4&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr class=&quot;table_highlight&quot;&gt;
-		&lt;td&gt;Average Volume&lt;/td&gt;
-		&lt;td&gt;0.5%&lt;/td&gt;
-	&lt;/tr&gt;
-
-		&lt;tr&gt;
-		&lt;td&gt;Medium Volume&lt;/td&gt;
-		&lt;td&gt;Ht 3.2%&lt;/td&gt;
-	&lt;/tr&gt;
-
-&lt;/table&gt;
-
-&lt;/div&gt; --&gt;
-
-
-&lt;script&gt;
-	
-$(document).ready(
-	function(){
-$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
-})
-
-&lt;/script&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="structure" /><summary type="html"></summary></entry><entry><title type="html">basic construction(2)</title><link href="http://localhost:4000/structure/2017/05/13/bc2.html" rel="alternate" type="text/html" title="basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/13/bc2</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/13/bc2.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">basic construction(2)</title><link href="http://localhost:4000/structure/2017/05/13/bc2.html" rel="alternate" type="text/html" title="basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/13/bc2</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/13/bc2.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
 
 &lt;h3&gt;
 	반턱쪽매
 &lt;/h3&gt;
 
-&lt;p style=&quot;line-height: 160%&quot;&gt;이음새란 주나 판으로 사용하는 목재가 부족한 경우 목재끼리 이어서 넓게 혹은 길게 사용할 수 있도록 한 접합구조를 말한다. 이음새는 판재를 이을 때와 골재를 이을 때의 두 가지 경우로 분리되며, 문갑이나 책상의 천판과 같이 일상 사용하는 판의 이음새에는 [홈]과 [턱]으로 된 [쪽매]와 [촉]의 구조로 접합된다. 그림은 제혀쪽매로서 널 한쪽은 화살촉 글 모양으로 모를 내고 상대편에 홈을 파서 물리는 방법이다&lt;/p&gt;	
+&lt;p style=&quot;line-height: 160%&quot;&gt;	
+널의 옆을 두께의 반 만큼 턱지게 깎고 서로 반턱이 겹치게 물려 널깔기하는 쪽매방식
+으로 턱쪽매, 변탕쪽매, 변탕붙임이라고도 한다.
+&lt;/p&gt;	
 &lt;/div&gt;
 
 &lt;div style=&quot;text-align:center; margin:20px 0px 30px 0px; display: block;&quot;&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry><entry><title type="html">Basic construction(2)</title><link href="http://localhost:4000/all/2017/05/13/xxx.html" rel="alternate" type="text/html" title="Basic construction(2)" /><published>2017-05-13T04:00:42+09:00</published><updated>2017-05-13T04:00:42+09:00</updated><id>http://localhost:4000/all/2017/05/13/xxx</id><content type="html" xml:base="http://localhost:4000/all/2017/05/13/xxx.html">&lt;div id=&quot;archives&quot;&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#structure&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;structure&lt;/h3&gt;
-    &lt;a name=&quot;structure&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/13/bc2.html&quot;&gt;basic construction(2)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/structure/2017/05/12/bc.html&quot;&gt;basic construction(1)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/CcrAHZ1eVFk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#all&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;all&lt;/h3&gt;
-    &lt;a name=&quot;all&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/all/2017/05/13/xxx.html&quot;&gt;Basic construction(2)&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry><entry><title type="html">basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/bc9.html" rel="alternate" type="text/html" title="basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/bc9</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/bc9.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#house&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;house&lt;/h3&gt;
-    &lt;a name=&quot;house&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/house/2017/06/11/concrete-copy.html&quot;&gt;structure&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;h3&gt;
+	엇걸이이음
+&lt;/h3&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#concrete&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;concrete&lt;/h3&gt;
-    &lt;a name=&quot;concrete&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/concrete/2017/06/11/concrete.html&quot;&gt;concrete&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;p style=&quot;line-height: 160%&quot;&gt;각 부재를 턱을 내어 걷어낸 다음, 마구리 한쪽에 一자형 턱솔을 내어 서로 엇거는 이음
+방식이다.주로 수평재 간 이음에 사용된다. 부재 측면에 산지를 꽂아 결속을 보강하지만 이음 중앙에
+산지를 꽂아 보강하기도 한다. 김제 귀신사 대적광전에서 사용된 엇걸이이음은 이음 중앙에 산지를
+꽂아 보강한 경우이다. 대적광전의 장여, 뜬장여 등에서 확인된다..&lt;/p&gt;	
+&lt;/div&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#gypsum&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;gypsum&lt;/h3&gt;
-    &lt;a name=&quot;gypsum&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/gypsum/2017/06/11/gypsum.html&quot;&gt;gypsum&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;div style=&quot;text-align:center; margin:20px 0px 30px 0px; display: block;&quot;&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#lime&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;lime&lt;/h3&gt;
-    &lt;a name=&quot;lime&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/lime/2017/06/11/lime.html&quot;&gt;lime&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#material&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;material&lt;/h3&gt;
-    &lt;a name=&quot;material&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/material/2017/06/11/material.html&quot;&gt;Loess&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;iframe style=&quot;margin-bottom:20px&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/xmJVaTYZaWM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#seaweed&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;seaweed&lt;/h3&gt;
-    &lt;a name=&quot;seaweed&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/seaweed/2017/06/11/seaweed.html&quot;&gt;seaweed&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#stratch&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;stratch&lt;/h3&gt;
-    &lt;a name=&quot;stratch&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/stratch/2017/06/11/stratch.html&quot;&gt;stratch&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/XUCpxtiFgMk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;div class=&quot;archive-group&quot;&gt;
-    
-    &lt;div id=&quot;#whiteocher&quot;&gt;&lt;/div&gt;
-    &lt;p&gt;&lt;/p&gt;
-    
-    &lt;h3 class=&quot;category-head&quot;&gt;whiteocher&lt;/h3&gt;
-    &lt;a name=&quot;whiteocher&quot;&gt;&lt;/a&gt;
-    
-    &lt;article class=&quot;archive-item&quot;&gt;
-      &lt;h4&gt;&lt;a href=&quot;/whiteocher/2017/06/11/whiteocher.html&quot;&gt;white ocher&lt;/a&gt;&lt;/h4&gt;
-    &lt;/article&gt;
-    
-  &lt;/div&gt;
 
-&lt;/div&gt;</content><author><name></name></author><summary type="html">structure basic construction(2) basic construction(1) all Basic construction(2) house structure concrete concrete gypsum gypsum lime lime material Loess seaweed seaweed stratch stratch whiteocher white ocher</summary></entry></feed>
+
+&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry></feed>

@@ -28,8 +28,30 @@ Copy
 <script src="/scripts/jquery-ui/jquery-ui-1.8.17.custom.min.js" type="text/javascript" ></script>
 <script src="/scripts/jquery-ui/jquery-ui-tabs.js" type="text/javascript" ></script>
 
-
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <!-- <link rel="stylesheet" href="/resources/demos/style.css"> -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  $( function() {
+    $( ".menu" ).menu({
+      items: "> :not(.ui-widget-header)"
+    });
+  } );
+  </script>
+  
 <style>
+
+.ui-menu { width: 250px; }
+  .ui-widget-header { padding: 5px 0px 5px 4px; 
+    font-size:15px;
+    }
+    li{
+     
+      padding:2px 0px 2px 0px;
+    }
+
+
 a{
   color:black;
   text-decoration: none;
@@ -183,7 +205,7 @@ a:hover{
 <div class="sub_menu_image">
 		<div style="margin-left:35px; margin-top:20px; display:block">
 
-					<div class="title" style="font-size:25px">제혀쪽매</div>
+					<div class="title" style="font-size:25px">나비장쪽매</div>
 					<!-- <div class="title" style="font-size:20px; margin-top:-10px">basic construction(1)</div> -->
 					 
 		</div>
@@ -201,10 +223,11 @@ a:hover{
 <div style="width:900px; margin:0px auto">
 
 <h3>
-	제혀쪽매
+	나비장쪽매
 </h3>
 
-<p style="line-height: 160%">이음새란 주나 판으로 사용하는 목재가 부족한 경우 목재끼리 이어서 넓게 혹은 길게 사용할 수 있도록 한 접합구조를 말한다. 이음새는 판재를 이을 때와 골재를 이을 때의 두 가지 경우로 분리되며, 문갑이나 책상의 천판과 같이 일상 사용하는 판의 이음새에는 [홈]과 [턱]으로 된 [쪽매]와 [촉]의 구조로 접합된다. 그림은 제혀쪽매로서 널 한쪽은 화살촉 글 모양으로 모를 내고 상대편에 홈을 파서 물리는 방법이다</p>	
+<p style="line-height: 160%">널의 상면에 반쪽 나비장 홈을 파서 두 널을 맞대고, 별도의 나비장으로 연결하는 쪽매
+방식이다.</p>	
 </div>
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
