@@ -1,7 +1,23 @@
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+
+
 body{
+
+	h1,h2,h3,h4{
+	font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important;
+	font-weight:600;
+}
+
+	p,a{
+
+		font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important;
+
+
+	}
+
 .sub_menu_image{
 	ul{
-		margin:0px 0px 20px 10px;
+		margin:0px 0px 20px 0px;
 		// display:flex;
 		font-size:13px;
 		list-style-type:none;
