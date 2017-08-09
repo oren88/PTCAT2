@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-09T12:55:34+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-08-10T08:27:12+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
 layout: post
 title:  structure
@@ -1106,10 +1106,10 @@ p{
 
 &lt;/style&gt;
 
-&lt;div style=&quot;width:900px; margin:0px  auto&quot;&gt;
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
 
 
-&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;- 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
 
 
 &lt;p style=&quot;line-height: 180%&quot;&gt;황토는 대개 균질하고 층리가 발달되어 있지 않으며, 공극률이 크다. 퇴적층을 수직방향으로 갈라지게 하는 수직한 열극들이 발달해 있는 것이 특징.
@@ -1127,9 +1127,9 @@ p{
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div style=&quot;text-align:center; margin:20px 0px 30px 40px; display: block;&quot;&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
 
-&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;- 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;&amp;#8226; 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
 &lt;table&gt;
 &lt;tr&gt;
 	&lt;th&gt;No&lt;/th&gt;
@@ -1267,43 +1267,48 @@ p{
 
 &lt;br /&gt;
 
-&lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
-&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:80%; margin-bottom:10px;&quot; alt=&quot;ocher7&quot; /&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:60%; margin-bottom:10px;&quot; alt=&quot;ocher7&quot; /&gt;
 &lt;h5&gt;[Figure 1-1. X-Ray Diffraction of Loess Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
 
-&lt;table style=&quot;width:841px; margin:30px 30px 10px 20px; margin-top:40px&quot;&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 1-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+
 	&lt;tr&gt;
-		&lt;th style=&quot;width:70%px&quot;&gt;Mateiral&lt;/th&gt;
-		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Compound name&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;ICCD Code Number&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
 	&lt;/tr&gt;
 
 	&lt;tr&gt;
 		&lt;td&gt;Quartz low&lt;/td&gt;
+		&lt;td&gt;11-222-3333&lt;/td&gt;
 		&lt;td&gt;59.9%&lt;/td&gt;
 	&lt;/tr&gt;
 
 		&lt;tr&gt;
 		&lt;td&gt;Pyrophylite(Subcell)&lt;/td&gt;
+		&lt;td&gt;11-222-3333&lt;/td&gt;
 		&lt;td&gt;36.4&lt;/td&gt;
 	&lt;/tr&gt;
 
 		&lt;tr class=&quot;&quot;&gt;
 		&lt;td&gt;Chirstobalite&lt;/td&gt;
+		&lt;td&gt;11-222-3333&lt;/td&gt;
 		&lt;td&gt;0.5%&lt;/td&gt;
 	&lt;/tr&gt;
 
 		&lt;tr&gt;
 		&lt;td&gt;Aluminum Phosphate(v)&lt;/td&gt;
+		&lt;td&gt;11-222-3333&lt;/td&gt;
 		&lt;td&gt;Ht 3.2%&lt;/td&gt;
 	&lt;/tr&gt;
 
 &lt;/table&gt;
 
-&lt;h5&gt;[Table 1-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
-
 &lt;br /&gt;
 
-&lt;h4 style=&quot;margin-top:28px&quot;&gt;- 형상(Morphlogy)&lt;/h4&gt;
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
 &lt;br /&gt;
 &lt;div class=&quot;morphlogy&quot;&gt;
 
@@ -1320,17 +1325,20 @@ p{
 
 &lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
 
-&lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
 	
-&lt;img src=&quot;/post_images/ocher2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;ocher2&quot; /&gt;
+&lt;img src=&quot;/post_images/ocher2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;ocher2&quot; /&gt;
 
-&lt;h5 style=&quot;margin-top:-25px; margin-bottom:30px;&quot;&gt;[Figure 1-3. Particle size analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 1-3. Particle size analysis]&lt;/h5&gt;
 
 
-&lt;table style=&quot;width:841px; margin:10px 30px 10px 20px;&quot;&gt;
+
+&lt;h5&gt;[Table 1-1. Summarized particle size analysis]​&lt;/h5&gt;
+
+&lt;table style=&quot; margin:5px 30px 50px 20px;&quot;&gt;
 	&lt;tr&gt;
-		&lt;th style=&quot;width:70%px&quot;&gt;Volume&lt;/th&gt;
-		&lt;th style=&quot;width:30%&quot;&gt;Data&lt;/th&gt;
+		&lt;th style=&quot;width:50%&quot;&gt;Volume&lt;/th&gt;
+		&lt;th style=&quot;width:50%&quot;&gt;Data&lt;/th&gt;
 	&lt;/tr&gt;
 
 	&lt;tr&gt;
@@ -1350,12 +1358,12 @@ p{
 
 		&lt;tr&gt;
 		&lt;td&gt;Medium Volume&lt;/td&gt;
-		&lt;td&gt;Ht 3.2%&lt;/td&gt;
+		&lt;td&gt;3.2%&lt;/td&gt;
 	&lt;/tr&gt;
 
 &lt;/table&gt;
 
-&lt;h5&gt;[Table 1-1. Summarized particle size analysis]​&lt;/h5&gt;
+
 
 &lt;/div&gt;
 
