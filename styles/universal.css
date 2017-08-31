@@ -8,13 +8,17 @@ html, body {
     font-size: 13px;
     background-color:#ffffff;
     height:100%;
-    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important ; 
 
+}
+
+a{
+    font-color:#333333;
 }
 
 p, li, th, td {
     /*font-size: 0.78em;*/
-    line-height: 1.0em;
+    /*line-height: 1.0em;*/
 }
 .line_height ul li {
     line-height:18px;
@@ -132,4 +136,10 @@ img.ppt {
 }
 #footer #footer_container a {
     color: #000;
+}
+
+.ui-widget{
+
+font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important ; 
+
 }

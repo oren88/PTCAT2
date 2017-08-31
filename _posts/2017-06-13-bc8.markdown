@@ -14,6 +14,10 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
+
+<img src="{{site.baseurl}}/post_images/bc8.png"  style="width:100%; margin-bottom:25px;" alt="">
+
+
 <p style="line-height: 160%">나비장이음은 수직재 간 이음, 수평재 간 이음에서 많이 사용된다.
 수직재 간 이음의 경우 동바리를 잇거나 고주를 잇는 경우에 사용된다. 이때 두 군데 이상에 나비
 장이음만으로 연결하거나 촉이음과 함께 사용하고 나비장으로 보강하기도 한다. 그러나 이 이음은

@@ -14,6 +14,8 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
+<img src="{{site.baseurl}}/post_images/bc2.png"  style="width:100%; margin-bottom:25px;" alt="">
+
 <p style="line-height: 160%">	
 널의 옆을 두께의 반 만큼 턱지게 깎고 서로 반턱이 겹치게 물려 널깔기하는 쪽매방식
 으로 턱쪽매, 변탕쪽매, 변탕붙임이라고도 한다.

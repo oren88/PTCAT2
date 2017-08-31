@@ -14,6 +14,9 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
+
+<img src="{{site.baseurl}}/post_images/bc5.png"  style="width:100%; margin-bottom:25px;" alt="">
+
 <p style="line-height: 160%">
 	
 비교적 간단한 맞춤방식으로, 현존하는 고려시대 건물 뿐 아니라 조선시대 건물, 현재 신축하는
