@@ -2,7 +2,7 @@
 layout: post
 title:  basic construction(2)
 ktitle: 반턱쪽매
-date:   2017-05-13 04:00:42 +0900
+date:   2017-05-12 04:00:42 +0900
 categories: structure
 link: bc2
 tag: 3Ddrawing
