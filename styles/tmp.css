@@ -33,8 +33,9 @@ body {
 /* ### BEGIN HEADER ### */
 #header {
     border-top: solid 6px #591A60;
-    background: url(../img/structure/background-top-logo.jpg) repeat-x;
+    /*background: url(../img/structure/background-top-logo.jpg) repeat-x;*/
     height: 111px;
+    background-color: #F1F0FF
 }
 
 #header .header_logo_nico {
@@ -132,6 +133,7 @@ body {
     width: auto;
     margin: 0px;
     padding: 10px;
+    background-color: #f7f7f7;
 }
 
 #navigation ul {

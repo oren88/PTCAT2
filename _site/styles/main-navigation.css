@@ -114,7 +114,7 @@ color:purple;
 
 /* 1st level */
 #main-nav > ul > li > a {
-    background-color: #ffffff;
+    /*background-color: #ffffff;*/
     font-size: 14px;
     font-weight: bold;
     text-transform: uppercase;

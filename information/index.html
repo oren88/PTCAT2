@@ -2,49 +2,132 @@
 
 ---
 {% include head.html %}
+
+<link rel="stylesheet" href="{{site.baseurl}}/post.css">
+
 <div id="mainFrame_container">
         <div class="mainFrame">
 {% include header.html %}
+
 <div class="sub_menu_image">
-{% include mhead.html %}
-		<div style="margin-left:30px;">
-		</div>
-<ul>
-</li>
-</ul>
+
+
+  <!-- <ul style="display:flex; background-color;  font-size:15px;">
+<a href="{{site.baseurl}}/gallery/index.html"><li style="color:grey; font-weight:bold">Structure / Building &nbsp</li></a>
+<strong><a href="{{site.baseurl}}/gallery/pattern.html"><li style="color:grey; font-weight:bold">Traditional Pattern / Design &nbsp</li></a></strong>
+<a href="{{site.baseurl}}/gallery/wood.html"><li style="color:#591A60; font-weight:bold">Wood Structure &nbsp </li></a>
+</ul> -->
+
 <br>
 
+    <div style="margin-left:30px;">
+        <h3>Material</h3>
+                      <h5 style="font-size:15px; color:#591A60"  > - Material Information Table</h5>
+    </div>
+
+<br>
+
+<div class="woodSt">
+  
+  <h2 style="text-align: center; font-size:20px;"> &#9642 3D 구성 소재</h2>
+
+<div  style="display:flex; margin:0px auto !important; width:800px;"   >
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>  무기재료 &nbsp </div></li>
+  <a href="{{site.baseurl}}/material/2017/06/11/material.htmll"><li><div>황토</div></li></a>
+  <li><div>백토</div></li>
+  <li><div data-toggle="modal" data-target="#myModal">현무암</div>
+
+<ul>
+  
+<li style="padding:5px">현무암A</li>
+<li style="padding:5px">현무암B</li>
+<li style="padding:5px" >현무암C</li>
+<li style="padding:5px">현무암D</li>
+
+</ul>
+
+  </li>
+  <li><div>규조토</div></li>
+  <li class="ui-widget-header" style="margin:0px;"><div>  무기질결합재  &nbsp </div></li>
+  <li><div>Slag</div></li>
+  <li><div>고미분</div></li>
+  <li><div>탄산칼슘</div></li>
+  <li><div>반수석고(알파&베타)</div></li>
+  <li><div>무수석고</div></li>
+  <li><div>알루미나계</div></li>
+  <li><div>알루미나계</div></li>
+  <li><div>시멘트</div></li>
+  <li><div>인산계 시멘트</div></li>
+</ul>
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div> Activator  &nbsp </div></li>
+  <a href="{{site.baseurl}}/structure/2017/05/12/bc11.html"><li><div>KOH</div></li></a>
+  <li><div>NaOH</div></li>
+  <li><div>CaCl2</div></li>
+  <li><div>Ca(OH)2</div></li>
+
+  <li class="ui-widget-header" style="margin:0px;"><div> 혼합재 &nbsp </div></li>
+  <a href="{{site.baseurl}}/structure/2017/05/12/bc9.html"><li><div>마섬유</div></li></a>
+  <li><div>CNT</div></li>
+  <li><div>Silica</div></li>
+  <li><div> Fume</div></li>
+
+  <li class="ui-widget-header" style="margin:0px;"><div>  접착제류 &nbsp</div></li>
+  <a href="{{site.baseurl}}/structure/2017/05/12/bc7.html"><li><div>전분</div></li></a>
+  <li><div>해초</div></li>
+  <li><div>물유리(Na계열, K계열)</div></li>
+
+</ul>
+
+
+
+
+<ul class="menu">
+  <li class="ui-widget-header" style="margin:0px;"><div>혼화제 &nbsp</div></li>
+  <!-- <li><div>나비장이음</div></li> -->
+  <li><div>급결제류</div></li>
+  <li><div> 소포제</div></li>
+  <li><div>초고성능 감수제/유동화제</div></li>
+  <li><div style="color:white">&</div></li>
+  <li class="ui-widget-header" style="margin:0px;"><div> 안료 &nbsp</div></li>
+  <li><div> 흑색 무기안료</div></li>
+  <li><div> 녹색 무기 안료</div></li>
+  <li><div> 적색 무기안료</div></li>
+  <li><div> 황색 무기 안료</div></li>
+</ul>
+
 
 </div>
 
 
-<div style="margin:0px 0px 30px 24px; width:150px; height:180px; overflow: hidden;">
-  {% for post in site.categories.material %}
-  <div style="text-align: center">
-  	<a href="{{ post.url }}">
-  	<img style="width:100%; margin-bottom:10px" src="{{site.baseurl}}/post_images/{{post.link}}.jpg" alt="basicConstruction">
-      {{ post.ktitle }}
-      <br>
-      {{ post.title }}</a>
-      
-	</div>
-  {% endfor %}
+<br>
+<br>
+<br>
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the modal.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
 </div>
-
-		
-
-
-</div>
+    
 
 {% include footer.html %}
     </div>
 </div>
-
-<script>
-  
-$(document).ready(
-  function(){
-$('#information').find('a').css("color","purple");
-})
-
-</script>
