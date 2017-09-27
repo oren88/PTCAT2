@@ -8,6 +8,8 @@ baseurl: ""
 url: "" 
 twitter_username: Jihoon Lee
 github_username:  Jihoon Lee
+permalink: /:categories/:year/:month/:day/:title.html
+
 
 # Build settings
 markdown: kramdown
