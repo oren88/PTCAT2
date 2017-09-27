@@ -2,7 +2,7 @@
 layout: post
 title:  white ocher
 date:   2017-06-10 18:00:01 -0600
-link: whiteocher
+link: white
 tag: Material
 categories: whiteocher
 ktitle: 백토

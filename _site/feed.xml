@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-08T10:33:54+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-28T00:54:55+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
 layout: post
 title:  structure
@@ -460,7 +460,7 @@ p{
 &lt;br /&gt;
 
 &lt;h4 style=&quot;margin-bottom:15px; margin-top:20px&quot;&gt;- 상분석(Phase Analysis)&lt;/h4&gt;
-&lt;img src=&quot;/post_images/whiteocher7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;whiteocher7&quot; /&gt;
+&lt;img src=&quot;/post_images/white7.jpg&quot; style=&quot;width:80%&quot; alt=&quot;white7&quot; /&gt;
 
 &lt;table style=&quot;width:841px; margin:30px 30px 20px 20px; margin-top:25px&quot;&gt;
 	&lt;tr&gt;
@@ -498,19 +498,19 @@ p{
 &lt;div class=&quot;morphlogy&quot;&gt;
 
 &lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
-	&lt;img src=&quot;/post_images/whiteocher3.jpg&quot; alt=&quot;whiteocher3.jpg&quot; /&gt;
-	&lt;img src=&quot;/post_images/whiteocher4.jpg&quot; alt=&quot;whiteocher4.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white3.jpg&quot; alt=&quot;white3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white4.jpg&quot; alt=&quot;white4.jpg&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
-	&lt;img src=&quot;/post_images/whiteocher5.jpg&quot; alt=&quot;whiteocher5.jpg&quot; /&gt;
-	&lt;img src=&quot;/post_images/whiteocher6.jpg&quot; alt=&quot;whiteocher6.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white5.jpg&quot; alt=&quot;white5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/white6.jpg&quot; alt=&quot;white6.jpg&quot; /&gt;
 	&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h4 style=&quot;margin-top:54px&quot;&gt;- 크기(Size Distribution)&lt;/h4&gt;
 	
-&lt;img src=&quot;/post_images/whiteocher2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;whiteocher2&quot; /&gt;
+&lt;img src=&quot;/post_images/white2.jpg&quot; style=&quot;width:80%&quot; alt=&quot;white2&quot; /&gt;
 
 &lt;table style=&quot;width:841px; margin:10px 30px 50px 20px;&quot;&gt;
 	&lt;tr&gt;
@@ -1087,7 +1087,7 @@ $(document).ready(
 $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
 })
 
-&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">Loess</title><link href="http://localhost:4000/material/2017/06/10/material.html" rel="alternate" type="text/html" title="Loess" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/material.html">&lt;style&gt;
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">HyunMu</title><link href="http://localhost:4000/material/2017/06/10/material.html" rel="alternate" type="text/html" title="HyunMu" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/material</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/material.html">&lt;style&gt;
 
 h4{
 	
@@ -1109,7 +1109,7 @@ p{
 &lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
 
 &lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot;&gt;
-&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%&quot; /&gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
@@ -1265,13 +1265,14 @@ p{
 	&lt;td&gt;8.8503&lt;/td&gt;
 &lt;/tr&gt; 
 
+
 &lt;/table&gt;
 &lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 1 -1. Chemical Composition of Loess]&lt;/h5&gt;
 
 &lt;br /&gt;
 
 &lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
-&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:60%; margin-bottom:10px;&quot; alt=&quot;ocher7&quot; /&gt;
+&lt;img src=&quot;/post_images/ocher7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;ocher7&quot; /&gt;
 &lt;h5&gt;[Figure 1-1. X-Ray Diffraction of Loess Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
 
 &lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 1-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
