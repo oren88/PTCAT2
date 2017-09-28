@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-28T16:32:57+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-28T16:50:40+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
 layout: post
 title:  structure
@@ -280,7 +280,327 @@ $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
 })
 
 &lt;/script&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">매— layout: post title: structure date: 2017-06-10 18:00:01 -0600 link: structure tag: structure categories: house ktitle: 한옥구조 —</summary></entry><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/10/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html">&lt;style&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">매— layout: post title: structure date: 2017-06-10 18:00:01 -0600 link: structure tag: structure categories: house ktitle: 한옥구조 —</summary></entry><entry><title type="html">Quicklime(CO1)</title><link href="http://localhost:4000/material/2017/06/10/sang.html" rel="alternate" type="text/html" title="Quicklime(CO1)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/sang</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/sang.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot;&gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot; /&gt;
+&lt;/div&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;산화칼슘(CaO)의 관용명. 공업적으로는 석회석을 열분해(1000~1200℃)하여 만든다. 백색 무정형 고체이며, 비중은 소성(燒成)온도의 고저로 2.3~3.4까지이다. 생석회의 CaO %는 화학용으로 80~90% 이상, 토건용으로 60~70% 이상, 농업용은 60% 이하이다. 용도는 석탄비료, 수분보집제, 혼합시멘트, 카바이드, 소독용 등이다.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;&amp;#8226; 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;0.812&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00753&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;7.0404&lt;/td&gt;
+	&lt;td&gt;0.7662&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;0.0796&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00158&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;1.8350&lt;/td&gt;
+	&lt;td&gt;0.0751&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;0.257&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00163&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;5.8009&lt;/td&gt;
+	&lt;td&gt;0.2428&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot;&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;P2O5&lt;/td&gt;
+	&lt;td&gt;0.0205&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00073&lt;/td&gt;
+	&lt;td&gt;P-KA&lt;/td&gt;
+	&lt;td&gt;1.2513&lt;/td&gt;
+	&lt;td&gt;0.0193&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;SO3&lt;/td&gt;
+	&lt;td&gt;0.131&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00086&lt;/td&gt;
+	&lt;td&gt;S-KA&lt;/td&gt;
+	&lt;td&gt;7.0768&lt;/td&gt;
+	&lt;td&gt;0.1233&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;93.4&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01062&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;5782.3941&lt;/td&gt;
+	&lt;td&gt;92.8333&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;0.311&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00456&lt;/td&gt;
+	&lt;td&gt;Fed-KA&lt;/td&gt;
+	&lt;td&gt;10.1570&lt;/td&gt;
+	&lt;td&gt;0.2930&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]&lt;/h5&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Quicklime(CO1)7.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Quicklime(CO1)7&quot; /&gt;
+&lt;h5&gt;[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 43-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Lime&lt;/td&gt;
+		&lt;td&gt;74.6%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Portlandite&lt;/td&gt;
+		&lt;td&gt;21.8%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr class=&quot;&quot;&gt;
+		&lt;td&gt;Calcite&lt;/td&gt;
+		&lt;td&gt;3.6%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)3.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)4.jpg&quot; alt=&quot;Quicklime(CO1)4.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)5.jpg&quot; alt=&quot;Quicklime(CO1)5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)6.jpg&quot; alt=&quot;Quicklime(CO1)6.jpg&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Quicklime(CO1)2.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Quicklime(CO1)2&quot; /&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 43-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 정의(Definition) 산화칼슘(CaO)의 관용명. 공업적으로는 석회석을 열분해(1000~1200℃)하여 만든다. 백색 무정형 고체이며, 비중은 소성(燒成)온도의 고저로 2.3~3.4까지이다. 생석회의 CaO %는 화학용으로 80~90% 이상, 토건용으로 60~70% 이상, 농업용은 60% 이하이다. 용도는 석탄비료, 수분보집제, 혼합시멘트, 카바이드, 소독용 등이다. &amp;#8226; 조성(Composition) No Component Result Unit Det.limit El.line Intensity w/o normal 1 MgO 0.812 mass% 0.00753 Mg-KA 7.0404 0.7662 2 Al2O3 0.0796 mass% 0.00158 Al-KA 1.8350 0.0751 3 SiO2 0.257 mass% 0.00163 Si-KA 5.8009 0.2428 4 P2O5 0.0205 mass% 0.00073 P-KA 1.2513 0.0193 5 SO3 0.131 mass% 0.00086 S-KA 7.0768 0.1233 6 CaO 93.4 mass% 0.01062 Ca-KA 5782.3941 92.8333 7 Fe2O3 0.311 mass% 0.00456 Fed-KA 10.1570 0.2930 [Table 43-1. Chemical Composition of 생석회(백광소재, CO1)] &amp;#8226; 상분석(Phase Analysis) [Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials &amp;amp; Phase Analysis] [Table 43-2. Phase analysis based on X-ray Diffraction] Material Data Lime 74.6% Portlandite 21.8% Calcite 3.6% &amp;#8226; 형상(Morphlogy) [Figure 1-2. Electron microscopy image] &amp;#8226; 크기(Size Distribution) [Figure 43-3. Particle size analysis]</summary></entry><entry><title type="html">Basalt(B2)</title><link href="http://localhost:4000/material/2017/06/10/hyunmu.html" rel="alternate" type="text/html" title="Basalt(B2)" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/material/2017/06/10/hyunmu</id><content type="html" xml:base="http://localhost:4000/material/2017/06/10/hyunmu.html">&lt;style&gt;
+h4{
+	text-align: left;
+margin-left:0px;
+margin-bottom:5px;
+margin-top:18px;
+color:#333;
+}p{
+	line-height: 160%;
+	text-align: left;
+}&lt;/style&gt;
+
+&lt;div style=&quot;width:800px; margin:0px  auto&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width:200px; height:150px;&quot;&gt;
+&lt;img src=&quot;/post_images/ocher.jpg&quot; alt=&quot;&quot; style=&quot;width:100%;&quot; /&gt;
+&lt;/div&gt;
+&lt;h4 style=&quot;margin-bottom:8px&quot;&gt;&amp;#8226; 정의(Definition)&lt;/h4&gt;&lt;br /&gt;
+&lt;p style=&quot;line-height: 180%&quot;&gt;회색~흑색의 분출 화산암이다. 이산화규소의 함량(45~52%)이 상대적으로 낮은 특징이 있다. 지표에서 용암이 급속이 냉각되기 때문에 보통 세립질이거나 은미정질이다. 세립질의 석기에 큰 결정을 포함하고 있는 반상질이거나, 기공질, 혹은 거품이 많은 스코리아(scoria)으로 나타난다. 유색광물로는 휘석과 감람석이, 무색광물로는 사장석 등이 주요 광물이다. 풍화되지 않은 현무암은 흑색 혹은 회색이지만, 철분의 산화에 따라 붉은색이나 자주색이 되기도 한다.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div style=&quot;text-align:center; margin:0px auto; display: block; width:800px&quot;&gt;
+&lt;h4 style=&quot;margin-bottom:10px&quot;&gt;&amp;#8226; 조성(Composition)&lt;/h4&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+	&lt;th&gt;No&lt;/th&gt;
+	&lt;th&gt;Component&lt;/th&gt;
+	&lt;th&gt;Result&lt;/th&gt;
+	&lt;th&gt;Unit&lt;/th&gt;
+	&lt;th&gt;Det.limit&lt;/th&gt;
+	&lt;th&gt;El.line&lt;/th&gt;
+	&lt;th&gt;Intensity&lt;/th&gt;
+	&lt;th&gt;w/o normal&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;1&lt;/td&gt;
+	&lt;td&gt;Na20&lt;/td&gt;
+	&lt;td&gt;0.973&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01353&lt;/td&gt;
+	&lt;td&gt;Na-KA&lt;/td&gt;
+	&lt;td&gt;3.7770&lt;/td&gt;
+	&lt;td&gt;0.8225&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;2&lt;/td&gt;
+	&lt;td&gt;MgO&lt;/td&gt;
+	&lt;td&gt;1.16&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01202&lt;/td&gt;
+	&lt;td&gt;Mg-KA&lt;/td&gt;
+	&lt;td&gt;11.4530&lt;/td&gt;
+	&lt;td&gt;0.9838&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;3&lt;/td&gt;
+	&lt;td&gt;Al2O3&lt;/td&gt;
+	&lt;td&gt;14.3&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01115&lt;/td&gt;
+	&lt;td&gt;Al-KA&lt;/td&gt;
+	&lt;td&gt;347.2199&lt;/td&gt;
+	&lt;td&gt;12.1031&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr class=&quot;&quot;&gt;
+	&lt;td&gt;4&lt;/td&gt;
+	&lt;td&gt;SiO2&lt;/td&gt;
+	&lt;td&gt;73.7&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01273&lt;/td&gt;
+	&lt;td&gt;Si-KA&lt;/td&gt;
+	&lt;td&gt;1333.1303&lt;/td&gt;
+	&lt;td&gt;62.4862&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;5&lt;/td&gt;
+	&lt;td&gt;K2O&lt;/td&gt;
+	&lt;td&gt;2.28&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00241&lt;/td&gt;
+	&lt;td&gt;K-KA&lt;/td&gt;
+	&lt;td&gt;126.0581&lt;/td&gt;
+	&lt;td&gt;1.9345&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;6&lt;/td&gt;
+	&lt;td&gt;CaO&lt;/td&gt;
+	&lt;td&gt;5.25&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00314&lt;/td&gt;
+	&lt;td&gt;Ca-KA&lt;/td&gt;
+	&lt;td&gt;236.8056&lt;/td&gt;
+	&lt;td&gt;4.4521&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;7&lt;/td&gt;
+	&lt;td&gt;TiO2&lt;/td&gt;
+	&lt;td&gt;0.304&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00757&lt;/td&gt;
+	&lt;td&gt;Ti-KA&lt;/td&gt;
+	&lt;td&gt;3.1764&lt;/td&gt;
+	&lt;td&gt;0.2576&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;8&lt;/td&gt;
+	&lt;td&gt;Fe2O3&lt;/td&gt;
+	&lt;td&gt;1.96&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.00279&lt;/td&gt;
+	&lt;td&gt;Fe-KA&lt;/td&gt;
+	&lt;td&gt;160.3686&lt;/td&gt;
+	&lt;td&gt;1.6616&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+	&lt;td&gt;9&lt;/td&gt;
+	&lt;td&gt;BaO&lt;/td&gt;
+	&lt;td&gt;0.142&lt;/td&gt;
+	&lt;td&gt;mass%&lt;/td&gt;
+	&lt;td&gt;0.01458&lt;/td&gt;
+	&lt;td&gt;Ba-KA&lt;/td&gt;
+	&lt;td&gt;0.6710&lt;/td&gt;
+	&lt;td&gt;0.1204&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;h5 style=&quot;margin-top:15px&quot;&gt;[Table 37-1. Chemical Composition of 현무암(B2)]&lt;/h5&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-bottom:40px; margin-top:20px&quot;&gt;&amp;#8226; 상분석(Phase Analysis)&lt;/h4&gt;
+&lt;img src=&quot;/post_images/Basalt(B2)1.jpg&quot; style=&quot;width:100%; margin-bottom:10px;&quot; alt=&quot;Basalt(B2)7&quot; /&gt;
+&lt;h5&gt;[Figure 1-1. X-Ray Diffraction of 현무암(B2) Materials &amp;amp; Phase Analysis]&lt;/h5&gt;
+&lt;h5 style=&quot;margin-top:40px; margin-bottom:10px&quot;&gt;[Table 37-2. Phase analysis based on X-ray Diffraction]&lt;/h5&gt;
+&lt;table style=&quot;margin:30px 30px 10px 20px; margin-top:0px&quot;&gt;
+	&lt;tr&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Material&lt;/th&gt;
+		&lt;th style=&quot;width:33.3%&quot;&gt;Data&lt;/th&gt;
+	&lt;/tr&gt;
+	&lt;tr&gt;
+		&lt;td&gt;Clinoptilolite&lt;/td&gt;
+		&lt;td&gt;88.5%&lt;/td&gt;
+	&lt;/tr&gt;
+		&lt;tr&gt;
+		&lt;td&gt;Quartz&lt;/td&gt;
+		&lt;td&gt;11.5%&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h4 style=&quot;margin-top:28px&quot;&gt;&amp;#8226; 형상(Morphlogy)&lt;/h4&gt;
+&lt;br /&gt;
+&lt;div class=&quot;morphlogy&quot;&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Basalt(B2)3.jpg&quot; alt=&quot;Basalt(B2)3.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Basalt(B2)4.jpg&quot; alt=&quot;Basalt(B2)4.jpg&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; width: 500px; margin:0px auto&quot;&gt;
+	&lt;img src=&quot;/post_images/Basalt(B2)5.jpg&quot; alt=&quot;Basalt(B2)5.jpg&quot; /&gt;
+	&lt;img src=&quot;/post_images/Basalt(B2)6.jpg&quot; alt=&quot;Basalt(B2)6.jpg&quot; /&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;[Figure 1-2. Electron microscopy image]&lt;/h5&gt;
+&lt;h4 style=&quot;margin-top:54px&quot;&gt;&amp;#8226; 크기(Size Distribution)&lt;/h4&gt;
+	&lt;img src=&quot;/post_images/Basalt(B2)16.jpg&quot; style=&quot;width:60%&quot; alt=&quot;Basalt(B2)2&quot; /&gt;
+&lt;h5 style=&quot;margin-top:-10px; margin-bottom:30px;&quot;&gt;[Figure 37-3. Particle size analysis]&lt;/h5&gt;
+&lt;/div&gt;
+&lt;script&gt;
+	$(document).ready(
+	function(){
+$('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
+})
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html">&amp;#8226; 정의(Definition) 회색~흑색의 분출 화산암이다. 이산화규소의 함량(45~52%)이 상대적으로 낮은 특징이 있다. 지표에서 용암이 급속이 냉각되기 때문에 보통 세립질이거나 은미정질이다. 세립질의 석기에 큰 결정을 포함하고 있는 반상질이거나, 기공질, 혹은 거품이 많은 스코리아(scoria)으로 나타난다. 유색광물로는 휘석과 감람석이, 무색광물로는 사장석 등이 주요 광물이다. 풍화되지 않은 현무암은 흑색 혹은 회색이지만, 철분의 산화에 따라 붉은색이나 자주색이 되기도 한다. &amp;#8226; 조성(Composition) No Component Result Unit Det.limit El.line Intensity w/o normal 1 Na20 0.973 mass% 0.01353 Na-KA 3.7770 0.8225 2 MgO 1.16 mass% 0.01202 Mg-KA 11.4530 0.9838 3 Al2O3 14.3 mass% 0.01115 Al-KA 347.2199 12.1031 4 SiO2 73.7 mass% 0.01273 Si-KA 1333.1303 62.4862 5 K2O 2.28 mass% 0.00241 K-KA 126.0581 1.9345 6 CaO 5.25 mass% 0.00314 Ca-KA 236.8056 4.4521 7 TiO2 0.304 mass% 0.00757 Ti-KA 3.1764 0.2576 8 Fe2O3 1.96 mass% 0.00279 Fe-KA 160.3686 1.6616 9 BaO 0.142 mass% 0.01458 Ba-KA 0.6710 0.1204 [Table 37-1. Chemical Composition of 현무암(B2)] &amp;#8226; 상분석(Phase Analysis) [Figure 1-1. X-Ray Diffraction of 현무암(B2) Materials &amp;amp; Phase Analysis] [Table 37-2. Phase analysis based on X-ray Diffraction] Material Data Clinoptilolite 88.5% Quartz 11.5% &amp;#8226; 형상(Morphlogy) [Figure 1-2. Electron microscopy image] &amp;#8226; 크기(Size Distribution) [Figure 37-3. Particle size analysis]</summary></entry><entry><title type="html">white ocher</title><link href="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html" rel="alternate" type="text/html" title="white ocher" /><published>2017-06-11T09:00:01+09:00</published><updated>2017-06-11T09:00:01+09:00</updated><id>http://localhost:4000/whiteocher/2017/06/10/whiteocher</id><content type="html" xml:base="http://localhost:4000/whiteocher/2017/06/10/whiteocher.html">&lt;style&gt;
 
 h4{
 	
@@ -2185,54 +2505,4 @@ $(document).ready(
 $('#information').find('a').css(&quot;color&quot;,&quot;purple&quot;);
 })
 
-&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry><entry><title type="html">basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/bc9.html" rel="alternate" type="text/html" title="basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/bc9</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/bc9.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
-
-&lt;h3&gt;
-	엇걸이이음
-&lt;/h3&gt;
-
-&lt;img src=&quot;/post_images/bc8.png&quot; style=&quot;width:100%; margin-bottom:25px;&quot; alt=&quot;&quot; /&gt;
-
-&lt;p style=&quot;line-height: 160%&quot;&gt;각 부재를 턱을 내어 걷어낸 다음, 마구리 한쪽에 一자형 턱솔을 내어 서로 엇거는 이음
-방식이다.주로 수평재 간 이음에 사용된다. 부재 측면에 산지를 꽂아 결속을 보강하지만 이음 중앙에
-산지를 꽂아 보강하기도 한다. 김제 귀신사 대적광전에서 사용된 엇걸이이음은 이음 중앙에 산지를
-꽂아 보강한 경우이다. 대적광전의 장여, 뜬장여 등에서 확인된다..&lt;/p&gt;	
-&lt;/div&gt;
-
-&lt;div style=&quot;text-align:center; margin:20px 0px 30px 0px; display: block;&quot;&gt;
-
-
-&lt;iframe style=&quot;margin-bottom:20px&quot; width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/xmJVaTYZaWM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/XUCpxtiFgMk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-
-&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry><entry><title type="html">basic construction(1)</title><link href="http://localhost:4000/structure/2017/05/12/bc8.html" rel="alternate" type="text/html" title="basic construction(1)" /><published>2017-05-12T04:00:42+09:00</published><updated>2017-05-12T04:00:42+09:00</updated><id>http://localhost:4000/structure/2017/05/12/bc8</id><content type="html" xml:base="http://localhost:4000/structure/2017/05/12/bc8.html">&lt;div style=&quot;width:900px; margin:0px auto&quot;&gt;
-
-&lt;h3&gt;
-	나비장맞춤
-&lt;/h3&gt;
-
-
-&lt;img src=&quot;/post_images/bc8.png&quot; style=&quot;width:100%; margin-bottom:25px;&quot; alt=&quot;&quot; /&gt;
-
-
-&lt;p style=&quot;line-height: 160%&quot;&gt;나비장이음은 수직재 간 이음, 수평재 간 이음에서 많이 사용된다.
-수직재 간 이음의 경우 동바리를 잇거나 고주를 잇는 경우에 사용된다. 이때 두 군데 이상에 나비
-장이음만으로 연결하거나 촉이음과 함께 사용하고 나비장으로 보강하기도 한다. 그러나 이 이음은
-횡력으로 충격을 받거나 목재가 건조 수축할 경우, 나비장과 부재 간 결속력이 떨어지는 단점이
-있다. 이에 대해 서울 숭례문의 고주의 경우 1961~63년 수리시 나비장을 길이방향으로 보완하기도
-하였다. 반면 수평재 간 이음의 경우 도리, 창방, 평방 등에 주로 사용되며 심이음을 하기 때문에
-나비장이음으로만 연결하는 경우가 많다.
-나비장의 두께는 비교적 얇은 편이다. 그러나 경복궁 근정전의 평방 간 이음에 사용된 나비장은
-평방 높이만큼 만들어 평방 간에 먼저 설치하고 안초공이 결구된 높이만큼 따낸 것이 특징이다.&lt;/p&gt;	
-&lt;/div&gt;
-
-&lt;div style=&quot;text-align:center; margin:20px 0px 30px 0px; display: block;&quot;&gt;
-
-&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/amz6ZA38eVg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-
-&lt;/div&gt;</content><author><name></name></author><category term="3Ddrawing" /><summary type="html"></summary></entry></feed>
+&lt;/script&gt;</content><author><name></name></author><category term="Material" /><summary type="html"></summary></entry></feed>
