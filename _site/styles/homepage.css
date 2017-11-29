@@ -71,8 +71,8 @@
     position: relative;
     width: 659px;
     height: 452px;
-    background-image: url(../img/structure/bkg-rotation.jpg)
-}
+/*    background-image: url(../img/structure/bkg-rotation.jpg)
+*/}
 
 #home_featured .nivo_slider {
     margin: 12px;
@@ -113,7 +113,7 @@
     -moz-box-sizing: content-box;
     -webkit-box-sizing: content-box;
     padding: 15px 10px 15px 10px !important;
-    bottom: 25px !important;
+    bottom: 0px;
     min-height: 55px;
     width: 615px;
 }
