@@ -1,4 +1,4 @@
-@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+@import url(https://cdn.rawgit.com/theeluwin/NotoSansKR-Hestia/master/stylesheets/NotoSansKR-Hestia.css);
 
 
 html, body {
@@ -8,7 +8,7 @@ html, body {
     font-size: 13px;
     background-color:#ffffff;
     height:100%;
-    font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif' !important ; 
+    font-family: 'Noto Sans Korean', sans-serif;
 
 }
 
@@ -136,6 +136,17 @@ img.ppt {
 }
 #footer #footer_container a {
     color: #000;
+}
+
+.circled{
+
+    top: 500px;
+    left : 1000px;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    z-index: :100;
+
 }
 
 .ui-widget{
