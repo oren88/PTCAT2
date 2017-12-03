@@ -22,6 +22,6 @@ tag: 3Ddrawing
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
-<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo" frameborder="0" allowfullscreen></iframe>
+<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 </div>

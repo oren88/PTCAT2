@@ -23,6 +23,6 @@ tag: 3Ddrawing
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
-<iframe width="70%" height="370" src="https://www.youtube.com/embed/Kb_KsrB3FLA" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="70%" height="370" src="https://www.youtube.com/embed/Kb_KsrB3FLA?autoplay=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 </div>

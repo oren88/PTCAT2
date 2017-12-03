@@ -25,10 +25,10 @@ tag: 3Ddrawing
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
 
-<iframe style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/xmJVaTYZaWM" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/xmJVaTYZaWM?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XUCpxtiFgMk" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XUCpxtiFgMk?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
 
 
