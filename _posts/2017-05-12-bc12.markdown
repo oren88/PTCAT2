@@ -14,7 +14,7 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
-<img src="{{site.baseurl}}/post_images/bc12.png"  style="width:100%; margin-bottom:25px;" alt="">
+
 
 <p style="line-height: 160%">.창방 간 반턱맞춤은 사갈 튼 우주에서 결구된다. 우주 머리에서 창방 간 반턱맞춤 하는 방식은
 창방의 너비를 줄이지 않고 온통으로 반턱맞춤하는 경우와 창방의 너비를 좁혀 반턱맞춤하는
@@ -28,6 +28,6 @@ tag: 3Ddrawing
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GZkTN3ijRKo?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GZkTN3ijRKo?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 </div>

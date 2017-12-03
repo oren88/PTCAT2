@@ -14,7 +14,7 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
-<img src="{{site.baseurl}}/post_images/bc8.png"  style="width:100%; margin-bottom:25px;" alt="">
+
 
 <p style="line-height: 160%">각 부재를 턱을 내어 걷어낸 다음, 마구리 한쪽에 一자형 턱솔을 내어 서로 엇거는 이음
 방식이다.주로 수평재 간 이음에 사용된다. 부재 측면에 산지를 꽂아 결속을 보강하지만 이음 중앙에
@@ -25,10 +25,10 @@ tag: 3Ddrawing
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
 
-<iframe style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/xmJVaTYZaWM?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe style="margin-bottom:20px" width="640" height="360" src="https://www.youtube.com/embed/xmJVaTYZaWM?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/XUCpxtiFgMk?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/XUCpxtiFgMk?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 

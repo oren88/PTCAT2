@@ -14,7 +14,7 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
-<img src="{{site.baseurl}}/post_images/bc.png"  style="width:100%; margin-bottom:25px;" alt="">
+
 
 <p style="line-height: 160%">널의 상면에 반쪽 나비장 홈을 파서 두 널을 맞대고, 별도의 나비장으로 연결하는 쪽매
 방식이다.</p>	
@@ -22,6 +22,6 @@ tag: 3Ddrawing
 
 <div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
 
-<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo?autoplay=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="70%" height="370px" src="https://www.youtube.com/embed/KXNcBLyVAeo?autoplay=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 </div>
