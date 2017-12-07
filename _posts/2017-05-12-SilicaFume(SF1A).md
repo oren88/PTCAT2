@@ -30,6 +30,7 @@ color:#333;
 <br>
 <div style="text-align:center; margin:0px auto; display: block; width:800px">
 <h4 style="margin-bottom:10px">&#8226; 조성(Composition)</h4><br>
+<h5 style="margin-bottom:15px">[Table. Chemical Composition(XRF)] </h5>
 <table>
 <tr>
 	<th>No</th>
@@ -122,7 +123,6 @@ color:#333;
 	<td>1.0801</td>
 </tr>
 </table>
-<h5 style="margin-top:15px">[Table 22-1. Chemical Composition of 아세아 Silica Fume(SF1A)]</h5>
 <br>
 <!-- <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4> -->
 <!-- <h4 style="margin-top:28px" > 상분석 data 누락 -->
@@ -139,14 +139,14 @@ color:#333;
 	<!-- <img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg"> -->
 	</div>
 </div>
-<h5>[Figure 22-2. Electron microscopy image]</h5>
+<h5>[Table. Phase Analysis Based on X-ray Diffraction]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
 	<img src="{{site.baseurl}}/post_images/{{page.link}}5.jpg" style="width:60%" alt="{{page.link}}2">
 	<br>
 	<br>
 	
-<h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 22-3. Particle size analysis]</h5>
-<h5>[Table 22-2. Summarized particle size analysis]​</h5>
+<h5 style="margin-top:-10px; margin-bottom:30px;">​[Figure. Particle Size Analysis]</h5>
+<h5>[Table. Summarized Particle Size Analysis]</h5>
 
 <table style=" margin:5px 30px 50px 20px;">
 	<tr>

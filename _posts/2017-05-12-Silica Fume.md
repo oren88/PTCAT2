@@ -125,10 +125,8 @@ color:#333;
 	<td>1.0801</td>
 </tr>
 </table>
-<h5 style="margin-top:15px">[Table 22-1. Chemical Composition of 아세아 Silica Fume(SF1A)]</h5>
+<h5 style="margin-top:15px">[Table. Chemical Composition(XRF)] </h5>
 <br>
-<h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
-<h4 style="margin-top:28px" > 상분석 data 누락
 <br>
 <h4 style="margin-top:28px" >&#8226; 형상(Morphlogy)</h4>
 <br>
@@ -142,10 +140,10 @@ color:#333;
 	<img src="{{stie.baseurl}}/post_images/{{page.link}}6.jpg" alt="{{page.link}}6.jpg">
 	</div>
 </div>
-<h5>[Figure 22-2. Electron microscopy image]</h5>
+<h5>​[Figure. Electron Microscopy Image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
 	<img src="{{site.baseurl}}/post_images/{{page.link}}2.jpg" style="width:60%" alt="{{page.link}}2">
-<h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 22-3. Particle size analysis]</h5>
+<h5 style="margin-top:-10px; margin-bottom:30px;">[Figure. Particle Size Analysis]</h5>
 </div>
 <script>
 	$(document).ready(
