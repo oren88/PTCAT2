@@ -26,6 +26,7 @@ color:#333;
 <br>
 <div style="text-align:center; margin:0px auto; display: block; width:800px">
 <h4 style="margin-bottom:10px">&#8226; 조성(Composition)</h4><br>
+<h5 style="margin-bottom:15px">[[Table. Chemical Composition(XRF)] </h5>
 <table>
 <tr>
 	<th>No</th>
@@ -108,7 +109,7 @@ color:#333;
 	<td>0.2930</td>
 </tr>
 </table>
-<h5 style="margin-top:15px">[[Table. Chemical Composition(XRF)] </h5>
+
 <br>
 <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
 <img src="{{site.baseurl}}/post_images/{{page.link}}1.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
