@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  basic construction(1)
-ktitle: 메뚜기장부이
+ktitle: 메뚜기장부이음
 date:   2017-05-12 04:00:42 +0900
 categories: structure
 link: bc
