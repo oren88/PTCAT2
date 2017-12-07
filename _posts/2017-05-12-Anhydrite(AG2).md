@@ -166,9 +166,12 @@ color:#333;
 	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
 	<br>
 	<br>
-	
+
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 42-3. Particle size analysis]</h5>
 <h5>[Table 41-3. Summarized particle size analysis]​</h5>
+<br>
+<br>
+
 
 <table style=" margin:5px 30px 50px 20px;">
 	<tr>
