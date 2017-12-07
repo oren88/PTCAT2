@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-07T15:49:55+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-07T16:15:02+09:00</updated><id>http://localhost:4000/</id><title type="html">PTCAT</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </subtitle><entry><title type="html">Concrete copy</title><link href="http://localhost:4000/2017/06/13/concrete-copy.html" rel="alternate" type="text/html" title="Concrete copy" /><published>2017-06-13T00:00:00+09:00</published><updated>2017-06-13T00:00:00+09:00</updated><id>http://localhost:4000/2017/06/13/concrete%20copy</id><content type="html" xml:base="http://localhost:4000/2017/06/13/concrete-copy.html">&lt;p&gt;매—
 layout: post
 title:  structure
@@ -453,14 +453,13 @@ color:#333;
 
 &lt;/p&gt;
 
-&lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;http://www.3dprinting.lighting/wp-content/uploads/2015/12/3DPrinting.Lighting_Sheet-Lamition_3DPrinting-Industry.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/GVzRyKxD6Zc&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -628,14 +627,13 @@ color:#333;
 
 &lt;/p&gt;
 
-&lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;http://www.sciaky.com/images/Wire-vs-Powder/EBDM_Illustration-web.jpg&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/NxwrJNWIT3E?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -805,12 +803,11 @@ color:#333;
 
 &lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160302_159/zestybox_1456900186152Q5tGD_JPEG/sls.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/9E5MfBAV_tA?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -980,12 +977,11 @@ color:#333;
 
 &lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160304_36/zestybox_145705661042870U56_JPEG/%C0%D7%C5%A9%C1%AC2.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/li-1UTqV5_k?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -1155,12 +1151,11 @@ color:#333;
 
 &lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20160304_223/zestybox_1457055889196gO7bT_JPEG/%C0%D7%C5%A9%C1%AC1.jpg?type=w800&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/TQgbMMw1GHo?autoplay=1&amp;amp;re1=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -1327,9 +1322,8 @@ color:#333;
 &lt;p style=&quot;line-height: 180%&quot;&gt;-레이저, UV 광원의 빛을 플라 스틱 소재에 조사 중합반응을 유도하여 선택적으로 고형화 시키는 방식
 &lt;/p&gt;
 
-&lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
+&lt;div style=&quot;margin:0px auto; width : 600px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
@@ -1503,12 +1497,11 @@ color:#333;
 
 &lt;div style=&quot;margin:0px auto; width : 400px&quot;&gt;
 &lt;br /&gt;	
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;/post_images/pp.png&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
-&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://about3dprintcapston.files.wordpress.com/2017/04/6eab491eca491ed95a9ebb0a9ec8b9d.png?w=1000&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
+&lt;img style=&quot;width:100%; display: inline-block;&quot; src=&quot;https://mblogthumb-phinf.pstatic.net/20150210_95/airrex_1423563887039RAaxq_JPEG/FDM.jpg?type=w2&quot; alt=&quot;Quicklime(CO1)3.jpg&quot; /&gt;
 &lt;/div&gt;
 &lt;br /&gt;
 &lt;div style=&quot;margin:0px auto; width:560px&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYGycgnYlBM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/U-8-lu4mq8o?autoplay=1&amp;amp;rel=0&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allow=&quot;encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
