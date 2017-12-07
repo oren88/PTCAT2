@@ -14,7 +14,11 @@ tag: 3Ddrawing
 	{{page.ktitle}}
 </h3>
 
-<p style="line-height: 160%">한 부재에 턱을 둔 장부를 내어 다른 부재에 끼워 맞추는 결구방식이다..</p>	
+<p style="line-height: 160%">한 부재에 턱을 둔 장부를 내어 다른 부재에 끼워 맞추는 결구방식이다.</p>	
 </div>	
 
+<div style="text-align:center; margin:20px 0px 30px 0px; display: block;">
+
 <iframe width="640" height="360" src="https://www.youtube.com/embed/stHZJXOOYA8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+</div>
