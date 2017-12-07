@@ -19,9 +19,6 @@ color:#333;
 	text-align: left;
 }</style>
 <div style="width:800px; margin:0px  auto">
-<div style="margin:0px auto; width:200px; height:150px;" >
-<img src="/post_images/ocher.jpg" alt="" style="width:100%;">
-</div>
 <h4 style="margin-bottom:8px">&#8226; 정의(Definition)</h4><br>
 <p style="line-height: 180%">무수석고(無水石膏)라고도 한다. 화학성분은 CaSO4이고, 보통 괴상(塊狀) ·섬유상 ·입상(粒狀) 등을 이룬다. 쪼개짐은 서로 직각으로 교차하여 3방향으로 완전하다. 결정(結晶)은 적지만, 결정질인 것은 정육면체의 쪼개짐조각을 이룬다. 굳기 3∼3.5, 비중 2.9이다. 백색, 때로 회색을 띠거나 청색 ·자주색 ·분홍색을 띤다. 투명 또는 반투명이고, 조흔색(條痕色)은 백색, 유리광택 또는 진주광택이 난다. 염산에 녹으며, 물을 흡수하면 석고가 된다. 또 가열하면 1,450 ℃에서 녹는다. 염수호가 증발함으로써 생성된 암염광상이나 석고광상에서 대규모로 산출된다.
 </p>
@@ -134,7 +131,7 @@ color:#333;
 <h5 style="margin-top:15px">[Table 42-1. Chemical Composition of 천연 무수 석고(AG2)]</h5>
 <br>
 <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
-<img src="{{site.baseurl}}/post_images/{{page.link}}7.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
+<img src="{{site.baseurl}}/post_images/{{page.link}}1.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
 <h5>[Figure 42-1. X-Ray Diffraction of 천연 무수 석고(AG2) Materials & Phase Analysis]</h5>
 <h5 style="margin-top:40px; margin-bottom:10px">[Table 41-2. Phase analysis based on X-ray Diffraction]</h5>
 <table style="margin:30px 30px 10px 20px; margin-top:0px">
@@ -156,17 +153,17 @@ color:#333;
 <br>
 <div class="morphlogy">
 <div style="display: flex; width: 500px; margin:0px auto"  >
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}3.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}4.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}2.jpg" alt="{{page.link}}3.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}4.jpg">
 </div>
 <div style="display: flex; width: 500px; margin:0px auto">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}5.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}6.jpg" alt="{{page.link}}6.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}5.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg">
 	</div>
 </div>
 <h5>[Figure 42-2. Electron microscopy image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
-	<img src="{{site.baseurl}}/post_images/{{page.link}}2.jpg" style="width:60%" alt="{{page.link}}2">
+	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 42-3. Particle size analysis]</h5>
 <h5>[Table 41-3. Summarized particle size analysis]​</h5>
 
