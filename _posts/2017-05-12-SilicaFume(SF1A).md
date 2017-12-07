@@ -136,12 +136,15 @@ color:#333;
 </div>
 <div style="display: flex; width: 500px; margin:0px auto">
 	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}5.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg">
+	<!-- <img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg"> -->
 	</div>
 </div>
 <h5>[Figure 22-2. Electron microscopy image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
-	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
+	<img src="{{site.baseurl}}/post_images/{{page.link}}5.jpg" style="width:60%" alt="{{page.link}}2">
+	<br>
+	<br>
+	
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 22-3. Particle size analysis]</h5>
 <h5>[Table 22-2. Summarized particle size analysis]​</h5>
 
