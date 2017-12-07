@@ -19,9 +19,6 @@ color:#333;
 	text-align: left;
 }</style>
 <div style="width:800px; margin:0px  auto">
-<div style="margin:0px auto; width:200px; height:150px;" >
-<img src="/post_images/ocher.jpg" alt="" style="width:100%;">
-</div>
 <h4 style="margin-bottom:8px">&#8226; 정의(Definition)</h4><br>
 <p style="line-height: 180%">실리카 흄은 실리콘(Si), 페로실리콘(FeSi), 실리콘 합금 등을 제조할 때에 발생되는 폐가스 중에 포함되어 있는 SiO2를 집진기로 수집 여과하여 얻어지는 마이크로 실리카 입자로서 고강도 시멘트 및 콘크리트 제품, 내화물, 그리고 기타 석면 등의 대체 등 다양한 분야에 응용하는 제품입니다.
 
@@ -127,24 +124,24 @@ color:#333;
 </table>
 <h5 style="margin-top:15px">[Table 22-1. Chemical Composition of 아세아 Silica Fume(SF1A)]</h5>
 <br>
-<h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
-<h4 style="margin-top:28px" > 상분석 data 누락
+<!-- <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4> -->
+<!-- <h4 style="margin-top:28px" > 상분석 data 누락 -->
 <br>
 <h4 style="margin-top:28px" >&#8226; 형상(Morphlogy)</h4>
 <br>
 <div class="morphlogy">
 <div style="display: flex; width: 500px; margin:0px auto"  >
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}3.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}4.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}2.jpg" alt="{{page.link}}3.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}4.jpg">
 </div>
 <div style="display: flex; width: 500px; margin:0px auto">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}5.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}6.jpg" alt="{{page.link}}6.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}5.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg">
 	</div>
 </div>
 <h5>[Figure 22-2. Electron microscopy image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
-	<img src="{{site.baseurl}}/post_images/{{page.link}}2.jpg" style="width:60%" alt="{{page.link}}2">
+	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 22-3. Particle size analysis]</h5>
 <h5>[Table 22-2. Summarized particle size analysis]​</h5>
 

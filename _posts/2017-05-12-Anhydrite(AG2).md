@@ -131,7 +131,7 @@ color:#333;
 <h5 style="margin-top:15px">[Table 42-1. Chemical Composition of 천연 무수 석고(AG2)]</h5>
 <br>
 <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
-<img src="{{site.baseurl}}/post_images/{{page.link}}1.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
+<img src="{{site.baseurl}}/post_images/{{page.link}}1.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}1">
 <h5>[Figure 42-1. X-Ray Diffraction of 천연 무수 석고(AG2) Materials & Phase Analysis]</h5>
 <h5 style="margin-top:40px; margin-bottom:10px">[Table 41-2. Phase analysis based on X-ray Diffraction]</h5>
 <table style="margin:30px 30px 10px 20px; margin-top:0px">
@@ -164,6 +164,9 @@ color:#333;
 <h5>[Figure 42-2. Electron microscopy image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
 	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
+	<br>
+	<br>
+	
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 42-3. Particle size analysis]</h5>
 <h5>[Table 41-3. Summarized particle size analysis]​</h5>
 

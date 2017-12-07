@@ -19,9 +19,6 @@ color:#333;
 	text-align: left;
 }</style>
 <div style="width:800px; margin:0px  auto">
-<div style="margin:0px auto; width:200px; height:150px;" >
-<img src="/post_images/ocher.jpg" alt="" style="width:100%;">
-</div>
 <h4 style="margin-bottom:8px">&#8226; 정의(Definition)</h4><br>
 <p style="line-height: 180%">산화칼슘(CaO)의 관용명. 공업적으로는 석회석을 열분해(1000~1200℃)하여 만든다. 백색 무정형 고체이며, 비중은 소성(燒成)온도의 고저로 2.3~3.4까지이다. 생석회의 CaO %는 화학용으로 80~90% 이상, 토건용으로 60~70% 이상, 농업용은 60% 이하이다. 용도는 석탄비료, 수분보집제, 혼합시멘트, 카바이드, 소독용 등이다.
 </p>
@@ -114,7 +111,7 @@ color:#333;
 <h5 style="margin-top:15px">[Table 43-1. Chemical Composition of 생석회(백광소재, CO1)]</h5>
 <br>
 <h4 style="margin-bottom:40px; margin-top:20px">&#8226; 상분석(Phase Analysis)</h4>
-<img src="{{site.baseurl}}/post_images/{{page.link}}7.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
+<img src="{{site.baseurl}}/post_images/{{page.link}}1.jpg" style="width:100%; margin-bottom:10px;" alt="{{page.link}}7">
 <h5>[Figure 43-1. X-Ray Diffraction of 생석회(백광소재, CO1) Materials & Phase Analysis]</h5>
 <h5 style="margin-top:40px; margin-bottom:10px">[Table 43-2. Phase analysis based on X-ray Diffraction]</h5>
 <table style="margin:30px 30px 10px 20px; margin-top:0px">
@@ -140,17 +137,19 @@ color:#333;
 <br>
 <div class="morphlogy">
 <div style="display: flex; width: 500px; margin:0px auto"  >
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}3.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}4.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}2.jpg" alt="{{page.link}}3.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}3.jpg" alt="{{page.link}}4.jpg">
 </div>
 <div style="display: flex; width: 500px; margin:0px auto">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}5.jpg">
-	<img src="{{stie.baseurl}}/post_images/{{page.link}}6.jpg" alt="{{page.link}}6.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}4.jpg" alt="{{page.link}}5.jpg">
+	<img src="{{stie.baseurl}}/post_images/{{page.link}}5.jpg" alt="{{page.link}}6.jpg">
 	</div>
 </div>
 <h5>[Figure 1-2. Electron microscopy image]</h5>
 <h4 style="margin-top:54px">&#8226; 크기(Size Distribution)</h4>
-	<img src="{{site.baseurl}}/post_images/{{page.link}}2.jpg" style="width:60%" alt="{{page.link}}2">
+	<img src="{{site.baseurl}}/post_images/{{page.link}}6.jpg" style="width:60%" alt="{{page.link}}2">
+	<br>
+	<br>
 <h5 style="margin-top:-10px; margin-bottom:30px;">[Figure 43-3. Particle size analysis]</h5>
 <h5>[Table 43-3. Summarized particle size analysis]​</h5>
 
